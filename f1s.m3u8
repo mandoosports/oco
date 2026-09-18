@@ -1,403 +1,326 @@
-
-
-#EXTINF:-1,==  Alwan Sport ==
-http://135.125.109.73:9000/beinsportnew_.m3u8
-
-
-#EXTINF:-1,Alwan Sport 1 
-https://blcco.linkip.org/live/3461_.m3u8
-#EXTINF:-1,Alwan Sport 1 SD
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181662.ts
-#EXTINF:-1,Alwan Sport 1 HD
-http://test-sportina.cfd/ALWAN-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Alwan Sport 1 HD+
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181661.ts
-#EXTINF:-1,Alwan Sport 1 FHD
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181660.ts
- 
-
-
-
-
-
-#EXTINF:-1,Alwan Sport 2 
-https://blcco.linkip.org/live/3460_.m3u8
-#EXTINF:-1,Alwan Sport 2 SD 
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181665.ts
-#EXTINF:-1,Alwan Sport 2 HD
-http://test-sportina.cfd/ALWAN-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Alwan Sport 2 HD+
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181664.ts
-#EXTINF:-1,Alwan Sport 2 FHD 
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181663.ts
- 
-
-#EXTINF:-1,Alwan Sport 3
-https://blcco.linkip.org/live/3459_.m3u8 
-#EXTINF:-1,Alwan Sport 3 SD
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181668.ts
-#EXTINF:-1,Alwan Sport 3 HD
-http://test-sportina.cfd/ALWAN-3/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Alwan Sport 3 HD+
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181667.ts
-#EXTINF:-1,Alwan Sport 3 FHD
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181666.ts
-
-
-#EXTINF:-1,Alwan Sport 4
-https://blcco.linkip.org/live/3458_.m3u8
-#EXTINF:-1,Alwan Sport 4+
-http://test-sportina.cfd/ALWAN-4/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1,Alwan Sport 5
-https://blcco.linkip.org/live/3457_.m3u8
-#EXTINF:-1,Alwan Sport 5+
-http://test-sportina.cfd/ALWAN-5/tracks-v1a1/mono.m3u8
-  
-
-
-
-#EXTINF:-1,==  MANDO SPORT VIP   ==
-https://mejarhosting.cfd/posttv480p/ch01/master.ts
-
-
- 
- 
-#EXTINF:-1 ,BEIN SPORTS 1 SD
-http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/325803.ts
-#EXTINF:-1 ,beIN SPORTS 1 HD 
-http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/325793.ts
-#EXTINF:-1 ,BEIN SPORTS 1 FHD 
-http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/318197.ts
-#EXTINF:-1 ,BEIN SPORTS 1 4K
-http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/391094.ts
-
-
-
-
-#EXTINF:-1 ,BEIN SPORTS 2 SD
-http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/325804.ts
-#EXTINF:-1 ,beIN SPORTS 2 HD 
-http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/325794.ts
-#EXTINF:-1 ,BEIN SPORTS 2 FHD 
-http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/318198.ts
-#EXTINF:-1 ,BEIN SPORTS 2 4K
-http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/391095.ts
-
-
-
-
-#EXTINF:-1 ,BEIN SPORTS 3 SD
-http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/325805.ts
-#EXTINF:-1 ,beIN SPORTS 3 HD 
-http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/325795.ts
-#EXTINF:-1 ,BEIN SPORTS 3 FHD 
-http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/318199.ts
-#EXTINF:-1 ,BEIN SPORTS 3 4K
-http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/391096.ts
-
-
-
-#EXTINF:-1 ,BEIN SPORTS 4 SD
-http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/325806.ts
-#EXTINF:-1 ,beIN SPORTS 4 HD 
-http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/325796.ts
-#EXTINF:-1 ,BEIN SPORTS 4 FHD 
-http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/440580.ts
-#EXTINF:-1 ,BEIN SPORTS 4 4K
-http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/391097.ts
-
-
-
-
-#EXTINF:-1 ,BEIN SPORTS 5 SD
-http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/325807.ts
-#EXTINF:-1 ,beIN SPORTS 5 HD 
-http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/325797.ts
-#EXTINF:-1 ,BEIN SPORTS 5 FHD 
-http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/318201.ts
-#EXTINF:-1 ,BEIN SPORTS 5 4K
-http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/391098.ts
-
-
-
-
-#EXTINF:-1 ,BEIN SPORTS 6 SD
-http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/325808.ts
-#EXTINF:-1 ,beIN SPORTS 6 HD 
-http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/325798.ts
-#EXTINF:-1 ,BEIN SPORTS 6 FHD 
-http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/318202.ts
-#EXTINF:-1 ,BEIN SPORTS 6 4K
-http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/391099.ts
-
-
-#EXTINF:-1,==  MANDO SPORT  ==
-https://mejarhosting.cfd/posttv480p/ch01/master.m3u8
-
-
-
-#EXTINF:-1,beIN SPORTS 1 SD 
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=2541&extension=m3u8
- 
-#EXTINF:-1,beIN SPORTS 1 SD Bee
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=245836&extension=m3u8
-
- 
-#EXTINF:-1,beIN SPORTS 1 HD
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=1&extension=m3u8
-
-#EXTINF:-1,beIN SPORTS 1 HD 8k
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=534831&extension=m3u8
-
-#EXTINF:-1,beIN SPORTS 1 HD Bee
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=108161&extension=m3u8
-
- 
-#EXTINF:-1,beIN SPORTS 1 HD Nexus
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=272468&extension=m3u8
-
-
-
-
-
- 
-
-
-
-
-
-
-
-#EXTINF:-1,beIN SPORTS 2 SD  
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=1100436&extension=m3u8
-
-#EXTINF:-1,beIN SPORTS 2 SD Bee
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=245835&extension=m3u8
-
-  
-
-#EXTINF:-1,beIN SPORTS 2 HD
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=2&extension=m3u8
-
-#EXTINF:-1,beIN SPORTS 2 HD 8k
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=534830&extension=m3u8
-
-#EXTINF:-1,beIN SPORTS 2 HD Bee
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=108162&extension=m3u8
-
- 
-#EXTINF:-1,beIN SPORTS 2 HD Nexus
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=272467&extension=m3u8
-
-
-
-
-
-
-
-
-
-
- 
-
-#EXTINF:-1,beIN SPORTS 3 SD 
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=2538&extension=m3u8
-
- 
-#EXTINF:-1,beIN SPORTS 3 SD+  
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=245833&extension=m3u8
-
-
-
-
-#EXTINF:-1,beIN SPORTS 3 HD
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=272465&extension=m3u8
-
-#EXTINF:-1,beIN SPORTS 3 HD 8k
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=534830&extension=m3u8
-
-#EXTINF:-1,beIN SPORTS 3 HD Bee
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=108164&extension=m3u8
-
- 
-#EXTINF:-1,beIN SPORTS 3 HD Nexus
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=534829&extension=m3u8
-
-
-
-
-
-
-
-
-
-
- 
-
- 
-#EXTINF:-1,beIN SPORTS 4 SD 
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=10795&extension=m3u8
-
-#EXTINF:-1,beIN SPORTS 4 SD 8k
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=1100434&extension=m3u8
-
-#EXTINF:-1,beIN SPORTS 4 SD Bee
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=245832&extension=m3u8
-
-#EXTINF:-1,beIN SPORTS 4 SD Nexus
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=1269962&extension=m3u8
-
-
-
-
-#EXTINF:-1,beIN SPORTS 4 HD
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=5&extension=m3u8
-
-#EXTINF:-1,beIN SPORTS 4 HD 8k
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=534828&extension=m3u8
-
-#EXTINF:-1,beIN SPORTS 4 HD Bee
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=108165&extension=m3u8
-
-#EXTINF:-1,beIN SPORTS 4 HD APPEL
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=1121792&extension=m3u8
-
-#EXTINF:-1,beIN SPORTS 4 HD Nexus
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=272464&extension=m3u8
-
-
-
- 
- 
-#EXTINF:-1,beIN SPORTS 5 SD 
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=2536&extension=m3u8
-
-#EXTINF:-1,beIN SPORTS 5 SD 8k
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=1100433&extension=m3u8
-
-#EXTINF:-1,beIN SPORTS 5 SD Bee
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=245831&extension=m3u8
-
-#EXTINF:-1,beIN SPORTS 5 SD Nexus
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=1269956&extension=m3u8
-
-
-
-#EXTINF:-1,beIN SPORTS 5 HD
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=6&extension=m3u8
-
-#EXTINF:-1,beIN SPORTS 5 HD 8k
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=534827&extension=m3u8
-
-#EXTINF:-1,beIN SPORTS 5 HD Bee
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=108166&extension=m3u8
-
-#EXTINF:-1,beIN SPORTS 5 HD APPEL
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=1121793&extension=m3u8
-
- 
-
- 
- 
-
-#EXTINF:-1,beIN SPORTS 6 SD 
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=2535&extension=m3u8
-
-#EXTINF:-1,beIN SPORTS 6 SD 8k
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=1100432&extension=m3u8
-
-#EXTINF:-1,beIN SPORTS 6 SD Bee
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=245830&extension=m3u8
-
-#EXTINF:-1,beIN SPORTS 6 SD Nexus
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=1269957&extension=m3u8
-
-
-
-
-#EXTINF:-1,beIN SPORTS 6 HD
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=7&extension=m3u8
-
-#EXTINF:-1,beIN SPORTS 6 HD 8k
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=534826&extension=m3u8
-
-#EXTINF:-1,beIN SPORTS 6 HD Bee
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=108167&extension=m3u8
-
-#EXTINF:-1,beIN SPORTS 6 HD APPEL
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=1121794&extension=m3u8
-
-#EXTINF:-1,beIN SPORTS 6 HD Nexus
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=272462&extension=m3u8
-
-
-
-
-
- 
-
-#EXTINF:-1,beIN SPORTS 7 SD 
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=2534&extension=m3u8
-
-#EXTINF:-1,beIN SPORTS 7 SD 8k
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=2534&extension=m3u8
-
-#EXTINF:-1,beIN SPORTS 7 SD Bee
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=245829&extension=m3u8
-
-#EXTINF:-1,beIN SPORTS 7 SD Nexus
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=1269958&extension=m3u8
-
-
-
-
-#EXTINF:-1,beIN SPORTS 7 HD
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=8&extension=m3u8
-
-#EXTINF:-1,beIN SPORTS 7 HD 8k
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=578834&extension=m3u8
-
-#EXTINF:-1,beIN SPORTS 7 HD Bee
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=108168&extension=m3u8
-
-#EXTINF:-1,beIN SPORTS 7 HD APPEL
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=1121795&extension=m3u8
-
-#EXTINF:-1,beIN SPORTS 7 HD Nexus
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=272461&extension=m3u8
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
+#EXTINF:-1 tvg-id="" tvg-name="HALA TV - Coming Soon" tvg-logo="http://eaiptv.net:80/images/T3qqaNBBA8t7m-m7d-4-NZ8nlDl8tbr0QWGOXZW_jHKvtIkhcJuAbJc1KYjRI-aw.png" group-title="HALA TV",HALA TV - Coming Soon
+http://eaiptv.net:80/aliosman1/01220013722/181571
+#EXTINF:-1 tvg-id="" tvg-name="HALA-NEWS" tvg-logo="http://eaiptv.net:80/images/T3qqaNBBA8t7m-m7d-4-NZ8nlDl8tbr0QWGOXZW_jHKvtIkhcJuAbJc1KYjRI-aw.png" group-title="HALA TV",HALA-NEWS
+http://eaiptv.net:80/aliosman1/01220013722/191356
+#EXTINF:-1 tvg-id="" tvg-name="Movies Action" tvg-logo="http://eaiptv.net:80/images/5-HhgZY3AjYx2bjnnriXYshGl6oA4XgV77ps-sHT17ihZSCvXpD6pq3XTBYTNDnMfdRl-dbN_33E12AKw-YN87S8EWkkkXukNjSUtIggI6U.png" group-title="HALA TV",Movies Action
+http://eaiptv.net:80/aliosman1/01220013722/181782
+#EXTINF:-1 tvg-id="" tvg-name="Movies Thriller" tvg-logo="http://eaiptv.net:80/images/5-HhgZY3AjYx2bjnnriXYicSOX1Z-6SNJ7Xh6l5xFghvsrH1ITjXo1vvENl6fcXaz6RbKmEGWpuVqxgo-KVAEW8MTJvzMEp3ng-X0J0ossY.png" group-title="HALA TV",Movies Thriller
+http://eaiptv.net:80/aliosman1/01220013722/181783
+#EXTINF:-1 tvg-id="bein-sport-1" tvg-name="BeIN_SPORTS_1_LOW" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw_D8_0pVSt4I85npgttWQBaEurb7D7pcmRqC0LAk_xsnHpPT7bhJ_1dxxqW5N3VYtqfX9h1kJ3C46SyJa5z4hhu_Qn4ZabfOc7H2-KLAzlXjL2eMN0jizKJta_xjjtdSoSY4mhFBZAfAiOnzVmxpWqMm2M7rfun2l9d1VGa6jYT6.png" group-title="beIN SP⚽RTS LOW- LIVE",BeIN_SPORTS_1_LOW
+http://eaiptv.net:80/aliosman1/01220013722/139911
+#EXTINF:-1 tvg-id="bein-sport-2" tvg-name="BeIN_SPORTS_2_LOW" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw_D8_0pVSt4I85npgttWQBaEurb7D7pcmRqC0LAk_xsnHpPT7bhJ_1dxxqW5N3VYttypbZY_SX9Rfd61Xu-jlnpKMdsZPIsercJcyHb1gGy7Ckrpo4njvFEzf18TNWHFuEUzw0217QgVOl5eX7XDG5F2-B252WlfQaEa-3V3P363.png" group-title="beIN SP⚽RTS LOW- LIVE",BeIN_SPORTS_2_LOW
+http://eaiptv.net:80/aliosman1/01220013722/139912
+#EXTINF:-1 tvg-id="bein-sport-3" tvg-name="BeIN_SPORTS_3_LOW" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw_D8_0pVSt4I85npgttWQBaEurb7D7pcmRqC0LAk_xsnHpPT7bhJ_1dxxqW5N3VYtqfX9h1kJ3C46SyJa5z4hhvyMxzwlk3L1oGaNPTz3AYyZ-xoOmZGZ6wy3hKZBzxdarD6Rb2m5C0ATOt-YLFn2FoO_8mbX5H7-22JRGQD9BUH.png" group-title="beIN SP⚽RTS LOW- LIVE",BeIN_SPORTS_3_LOW
+http://eaiptv.net:80/aliosman1/01220013722/139913
+#EXTINF:-1 tvg-id="bein-sport-4" tvg-name="BeIN_SPORTS_4_LOW" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw_D8_0pVSt4I85npgttWQBaEurb7D7pcmRqC0LAk_xsnHpPT7bhJ_1dxxqW5N3VYtqfX9h1kJ3C46SyJa5z4hhvkaFrVBWQf_f82I9-UDDoV4a_mTSEBwvFyrRczQiOET2iIstoHRy5zTOaIA4wBalrrGX1x9Jwpr_7DbQNTRJ6B.png" group-title="beIN SP⚽RTS LOW- LIVE",BeIN_SPORTS_4_LOW
+http://eaiptv.net:80/aliosman1/01220013722/139914
+#EXTINF:-1 tvg-id="bein-sport-5" tvg-name="BeIN_SPORTS_5_LOW" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw_D8_0pVSt4I85npgttWQBaEurb7D7pcmRqC0LAk_xsnHpPT7bhJ_1dxxqW5N3VYtqfX9h1kJ3C46SyJa5z4hhvrfKBhkOXiKlDo-KZ_HDwABq0_9ckV_Buup8KHLrA3n4QCPkL1CjhRLwKqpMhsPb6n4iqu-VROEmZkRSzhQu5r.png" group-title="beIN SP⚽RTS LOW- LIVE",BeIN_SPORTS_5_LOW
+http://eaiptv.net:80/aliosman1/01220013722/139915
+#EXTINF:-1 tvg-id="bein-sport-6" tvg-name="BeIN_SPORTS_6_LOW" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw_D8_0pVSt4I85npgttWQBaEurb7D7pcmRqC0LAk_xsnHpPT7bhJ_1dxxqW5N3VYttypbZY_SX9Rfd61Xu-jlnp6RDztK4G-72PiRFsw1uBzfWHoMUZY8-uJPJjsfxKKYQ_3w9PGYkXhUAncMTHl_GmNvGeUgIdIBrK4SCT3eW7l.png" group-title="beIN SP⚽RTS LOW- LIVE",BeIN_SPORTS_6_LOW
+http://eaiptv.net:80/aliosman1/01220013722/139916
+#EXTINF:-1 tvg-id="bein-sport-7" tvg-name="BeIN_SPORTS_7_LOW" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw_D8_0pVSt4I85npgttWQBaEurb7D7pcmRqC0LAk_xsnHpPT7bhJ_1dxxqW5N3VYtqfX9h1kJ3C46SyJa5z4hhtxURmp88qvL5KvFyrYKYqseOxPAhLTYc-5WfJPPvnGoxJTMPu3Hel5_kcy11HE7k95CVkiN9JV9CpeuGnTMWyW.png" group-title="beIN SP⚽RTS LOW- LIVE",BeIN_SPORTS_7_LOW
+http://eaiptv.net:80/aliosman1/01220013722/139917
+#EXTINF:-1 tvg-id="0x0-fireplace-hd" tvg-name="BeIN_SPORTS_8_LOW" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw_D8_0pVSt4I85npgttWQBaEurb7D7pcmRqC0LAk_xsnHpPT7bhJ_1dxxqW5N3VYtqPujefcO6RreKwPCxTlQyjDJ8D47T0rLjoguBbVYeCGzP-KH9nL_5efpFYc-7r1UlbhZqcfmkH2PXYCg7L8QehYU51OcoTdD5b4XOACiSb4.png" group-title="beIN SP⚽RTS LOW- LIVE",BeIN_SPORTS_8_LOW
+http://eaiptv.net:80/aliosman1/01220013722/139918
+#EXTINF:-1 tvg-id="0x0-fireplace-hd" tvg-name="BeIN_SPORTS_9_LOW" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-GwyTtuOXkZN9sO5rKkc5CcV2wCeycN82CN__B0K9dbQazQ47opWNEx59sBFaqhzZFbZ38SsBTe5vYvoOrm1rFHs7rAHGEnQydzVoGnwYlPlWnv-0ubjUZEL0CUpS5_DYqPtYcTwIWSMeWFyCrdFZlnlkD2cdN5OcpREj_DKYYHu0p.png" group-title="beIN SP⚽RTS LOW- LIVE",BeIN_SPORTS_9_LOW
+http://eaiptv.net:80/aliosman1/01220013722/139919
+#EXTINF:-1 tvg-id="bein-sports-news" tvg-name="BEIN SPORTS NEWS HD" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw_D8_0pVSt4I85npgttWQBaEurb7D7pcmRqC0LAk_xsnHpPT7bhJ_1dxxqW5N3VYtuzroHKgXdWpTJSS5J3aquY5Bj-ymg2Zh5Qb8JE7d8SK-VXS4eLOM0hbEhygwzOhA2G4WW0G8T5DsII4skJcTbj7B7c-kYgBMFQGsXNzVNoE.png" group-title="beIN SP⚽RTS LOW- LIVE",BEIN SPORTS NEWS HD
+http://eaiptv.net:80/aliosman1/01220013722/139927
+#EXTINF:-1 tvg-id="bein-sports-1-en" tvg-name="BEIN SPORTS 1 ENGLISH" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw6hki6MF8-dP0OQ5KbCLhUiongMv0NNi0VNeRJX8k3X1ZuYfGxhNjE6ypanKREOW06KEbm7ZBK_H1e-uqupMTxKtmd6NWzewBfYED9hTYe8zWLFK2XdWcNsktfUmS4qlPrBOA4gvcqkNLzluIoFpEk4_8A4YB9KIyhr56rFuTl00.png" group-title="beIN SP⚽RTS LOW- LIVE",BEIN SPORTS 1 ENGLISH
+http://eaiptv.net:80/aliosman1/01220013722/139920
+#EXTINF:-1 tvg-id="bein-sports-2-en" tvg-name="BEIN SPORTS 2 ENGLISH" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw6hki6MF8-dP0OQ5KbCLhUiongMv0NNi0VNeRJX8k3X1ZuYfGxhNjE6ypanKREOW01ymoO4IZda5sEefw2b9dOF-fR2dAcCw3U8a1N-_0j8MFGZsPshRgR-y_rfGDSjjVysV6F08tkp_d0JtTiY5X3ae5HU3HrmlKgo-vnqOJExx.png" group-title="beIN SP⚽RTS LOW- LIVE",BEIN SPORTS 2 ENGLISH
+http://eaiptv.net:80/aliosman1/01220013722/139921
+#EXTINF:-1 tvg-id="bein-sports-xtra-us" tvg-name="beIN Sport XTRA 1 HD" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gwyp16mAEnOkSjtWyRNnlVdhkUQa8Ft89l7Xyetcaj9k4GZIFadi7Epg7dA_XVr-850hdhTc0QiEMGiiTypG1rfcCoWPSk5U3B-LymL8QnFl3vpjRV-C6nJza4i_VepwUa6wLffCWDQDv_sw6TDOM7XzrJx1OjEFrFpSOUT_Pl5TH.png" group-title="beIN SP⚽RTS LOW- LIVE",beIN Sport XTRA 1 HD
+http://eaiptv.net:80/aliosman1/01220013722/139924
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport XTRA 2 HD" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gwyp16mAEnOkSjtWyRNnlVdhkUQa8Ft89l7Xyetcaj9k4GZIFadi7Epg7dA_XVr-850hdhTc0QiEMGiiTypG1rfcCoWPSk5U3B-LymL8QnFl3vpjRV-C6nJza4i_VepwUa6wLffCWDQDv_sw6TDOM7XzrJx1OjEFrFpSOUT_Pl5TH.png" group-title="beIN SP⚽RTS LOW- LIVE",beIN Sport XTRA 2 HD
+http://eaiptv.net:80/aliosman1/01220013722/139925
+#EXTINF:-1 tvg-id="" tvg-name="BEIN  SPORTS XTRA 3 HD" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw_1G1PTbwRPHkmBqjfHdCxTTPOxJ1ulW17iQhWwnkEXb76uZcLciTkgmNc4MNuVgOHV5rC1PyQqXriZE6mB154YvvM_vyuKLLgcq9jJUi0fpOwJCyKI7b0acCueO0TVbS_L-7gpsJKFHjcwh61x8CjfpzVZilA31_JDydi9bC8fy.png" group-title="beIN SP⚽RTS LOW- LIVE",BEIN  SPORTS XTRA 3 HD
+http://eaiptv.net:80/aliosman1/01220013722/139926
+#EXTINF:-1 tvg-id="" tvg-name="EIN_SPORT_1 H256" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw_D8_0pVSt4I85npgttWQBaEurb7D7pcmRqC0LAk_xsnHpPT7bhJ_1dxxqW5N3VYtqfX9h1kJ3C46SyJa5z4hhu_Qn4ZabfOc7H2-KLAzlXjL2eMN0jizKJta_xjjtdSoSY4mhFBZAfAiOnzVmxpWqMm2M7rfun2l9d1VGa6jYT6.png" group-title="beIN SP⚽RTS HQ- LIVE",EIN_SPORT_1 H256
+http://eaiptv.net:80/aliosman1/01220013722/154222
+#EXTINF:-1 tvg-id="" tvg-name="Aflam" tvg-logo="http://eaiptv.net:80/images/v6AW62c05bMxU_7f8_eUx9r6lADElx-GSOLaG7oSCpOpu1pla3zUhsXK-X6CMVzWBamgRg8OaMZ1hTIxHwm0pxdGD0hdDFqUGzrxgCH966Y.png" group-title="HALA TV",Aflam
+http://eaiptv.net:80/aliosman1/01220013722/185838
+#EXTINF:-1 tvg-id="" tvg-name="[KSA] Thamanya Sports 1" tvg-logo="http://eaiptv.net:80/images/I9AgY4ai2klaytZGx_jbIIgUEwweIRp2ZL-8VRozeCQC88vFac5i9TH4yyn2cGwV.png" group-title="|Thmanyah & STC Sports CHANNEL LIVE|",[KSA] Thamanya Sports 1
+http://eaiptv.net:80/aliosman1/01220013722/189976
+#EXTINF:-1 tvg-id="" tvg-name="[KSA] Thamanya Sports 2" tvg-logo="http://eaiptv.net:80/images/I9AgY4ai2klaytZGx_jbIIgUEwweIRp2ZL-8VRozeCQMlgD6IxvDkoi4uu5NN28K.png" group-title="|Thmanyah & STC Sports CHANNEL LIVE|",[KSA] Thamanya Sports 2
+http://eaiptv.net:80/aliosman1/01220013722/189977
+#EXTINF:-1 tvg-id="" tvg-name="[KSA] Thamanya Sports 3" tvg-logo="http://eaiptv.net:80/images/I9AgY4ai2klaytZGx_jbIIgUEwweIRp2ZL-8VRozeCRWWNeo5S8fgSgXTCguztav.png" group-title="|Thmanyah & STC Sports CHANNEL LIVE|",[KSA] Thamanya Sports 3
+http://eaiptv.net:80/aliosman1/01220013722/189978
+#EXTINF:-1 tvg-id="" tvg-name="[KSA] Thamanya Sports 1" tvg-logo="http://eaiptv.net:80/images/I9AgY4ai2klaytZGx_jbIIgUEwweIRp2ZL-8VRozeCQC88vFac5i9TH4yyn2cGwV.png" group-title="|Thmanyah & STC Sports CHANNEL LIVE|",[KSA] Thamanya Sports 1
+http://eaiptv.net:80/aliosman1/01220013722/189979
+#EXTINF:-1 tvg-id="" tvg-name="[KSA] Thamanya Sports 2" tvg-logo="http://eaiptv.net:80/images/I9AgY4ai2klaytZGx_jbIIgUEwweIRp2ZL-8VRozeCQMlgD6IxvDkoi4uu5NN28K.png" group-title="|Thmanyah & STC Sports CHANNEL LIVE|",[KSA] Thamanya Sports 2
+http://eaiptv.net:80/aliosman1/01220013722/189980
+#EXTINF:-1 tvg-id="" tvg-name="[KSA] Thamanya Sports 3" tvg-logo="http://eaiptv.net:80/images/I9AgY4ai2klaytZGx_jbIIgUEwweIRp2ZL-8VRozeCRWWNeo5S8fgSgXTCguztav.png" group-title="|Thmanyah & STC Sports CHANNEL LIVE|",[KSA] Thamanya Sports 3
+http://eaiptv.net:80/aliosman1/01220013722/189981
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBO2-k51Fq0L1SukejhAVQgp_mVbDWfHqLw&s" group-title="|Alwan beinsport CHANNEL LIVE|",Alwan Sport 1
+http://eaiptv.net:80/aliosman1/01220013722/181937
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBO2-k51Fq0L1SukejhAVQgp_mVbDWfHqLw&s" group-title="|Alwan beinsport CHANNEL LIVE|",Alwan Sport 2
+http://eaiptv.net:80/aliosman1/01220013722/181908
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBO2-k51Fq0L1SukejhAVQgp_mVbDWfHqLw&s" group-title="|Alwan beinsport CHANNEL LIVE|",Alwan Sport 3
+http://eaiptv.net:80/aliosman1/01220013722/181909
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBO2-k51Fq0L1SukejhAVQgp_mVbDWfHqLw&s" group-title="|Alwan beinsport CHANNEL LIVE|",Alwan Sport 4
+http://eaiptv.net:80/aliosman1/01220013722/181910
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBO2-k51Fq0L1SukejhAVQgp_mVbDWfHqLw&s" group-title="|Alwan beinsport CHANNEL LIVE|",Alwan Sport 5
+http://eaiptv.net:80/aliosman1/01220013722/181911
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBO2-k51Fq0L1SukejhAVQgp_mVbDWfHqLw&s" group-title="|Alwan beinsport CHANNEL LIVE|",Alwan Sport 6
+http://eaiptv.net:80/aliosman1/01220013722/181912
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 HD" tvg-logo="http://eaiptv.net:80/images/U0Mx6iEF90NYkqAcpBI6i5UxD4bDPbmd_iHsbgCGeDxZBHZUAeSoWcSn9smDOc5HTCK9dCB_rJKFZcJL_7kRqNfkvRopbZUI0G_xRea8npQ.png" group-title="beIN SP⚽RTS  H265 LOW- LIVE",beIN SPORTS 2 HD
+http://eaiptv.net:80/aliosman1/01220013722/190160
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 HD" tvg-logo="http://eaiptv.net:80/images/U0Mx6iEF90NYkqAcpBI6i-bO9aYI071DmXfDUF7VIehy96oPJ_veFcwz1Jvr6vjf7tkORO72Py4kImhO6wwZvt0k63FkOvGwRjfeHWh1I28.png" group-title="beIN SP⚽RTS  H265 LOW- LIVE",beIN SPORTS 3 HD
+http://eaiptv.net:80/aliosman1/01220013722/190161
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 HD" tvg-logo="http://eaiptv.net:80/images/U0Mx6iEF90NYkqAcpBI6i1cGnrpYCeuE9rWgsKy7j3IIsjy7y-R2RngPSB9fuuODwrNpQwJRQk6FoEpZ6CoVTYRqxg_RP7jX446wvrQGk7g.png" group-title="beIN SP⚽RTS  H265 LOW- LIVE",beIN SPORTS 4 HD
+http://eaiptv.net:80/aliosman1/01220013722/190162
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 HD" tvg-logo="http://eaiptv.net:80/images/U0Mx6iEF90NYkqAcpBI6i0E0I-B4ZbZLroXS-3qbBRFQkcHMeW-lg-JmjEltk7EuTZ0sdFZS0g7uz2iz7SzIX_0-kVi4MAndHL4z_mxjTbw.png" group-title="beIN SP⚽RTS  H265 LOW- LIVE",beIN SPORTS 5 HD
+http://eaiptv.net:80/aliosman1/01220013722/190163
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 HD" tvg-logo="http://eaiptv.net:80/images/U0Mx6iEF90NYkqAcpBI6i4M-Zgl9RQ-iVb1wAAouwc6w95Ygepi8PHyBADJaMc3qMrjVH5QUcKpx_2RnHB06grtRmc4J9laZshPJjOhiZic.png" group-title="beIN SP⚽RTS  H265 LOW- LIVE",beIN SPORTS 6 HD
+http://eaiptv.net:80/aliosman1/01220013722/190164
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 HD" tvg-logo="http://eaiptv.net:80/images/U0Mx6iEF90NYkqAcpBI6i2Vwinp6KLOB0QXo2Y_UkfSj62ZUcIsdIf8iYcATA_tuz8hsW2zmwYFc6ihjhSzR32Eb0poGxRYWjoV5_VBTqww.png" group-title="beIN SP⚽RTS  H265 LOW- LIVE",beIN SPORTS 7 HD
+http://eaiptv.net:80/aliosman1/01220013722/190165
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 8 HD" tvg-logo="http://eaiptv.net:80/images/U0Mx6iEF90NYkqAcpBI6i1cGnrpYCeuE9rWgsKy7j3IptlvA-m0VK-I7nmj7v9RPq1ELbnPKFLTNh5f3GRiaJLmE3386liLLRB4lv-Cb1ns.png" group-title="beIN SP⚽RTS  H265 LOW- LIVE",beIN SPORTS 8 HD
+http://eaiptv.net:80/aliosman1/01220013722/190166
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 9 HD" tvg-logo="http://eaiptv.net:80/images/U0Mx6iEF90NYkqAcpBI6i66HIVt7lXd4091jP7sLYwWT6E8KrjF1fAn5UEyk5cp6exEF8NMuTvdlMBhBqG-YPJGnvJmLUInpTmxJamM4l8g.png" group-title="beIN SP⚽RTS  H265 LOW- LIVE",beIN SPORTS 9 HD
+http://eaiptv.net:80/aliosman1/01220013722/190167
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 SD" tvg-logo="http://eaiptv.net:80/images/U0Mx6iEF90NYkqAcpBI6i9wLuDRbcl4QMb83WlEOY1M8okZO78sIYrx5pUaCacmX74AE-8uW_d7Zd3JtDNAGf7FypxGZ3NtaybXRYUvoLE8.png" group-title="beIN SP⚽RTS SD 2M- LIVE",beIN SPORTS 1 SD
+http://eaiptv.net:80/aliosman1/01220013722/190150
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 SD" tvg-logo="http://eaiptv.net:80/images/U0Mx6iEF90NYkqAcpBI6i5UxD4bDPbmd_iHsbgCGeDxZBHZUAeSoWcSn9smDOc5HTCK9dCB_rJKFZcJL_7kRqNfkvRopbZUI0G_xRea8npQ.png" group-title="beIN SP⚽RTS SD 2M- LIVE",beIN SPORTS 2 SD
+http://eaiptv.net:80/aliosman1/01220013722/190151
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 SD" tvg-logo="http://eaiptv.net:80/images/U0Mx6iEF90NYkqAcpBI6i-bO9aYI071DmXfDUF7VIehy96oPJ_veFcwz1Jvr6vjf7tkORO72Py4kImhO6wwZvt0k63FkOvGwRjfeHWh1I28.png" group-title="beIN SP⚽RTS SD 2M- LIVE",beIN SPORTS 3 SD
+http://eaiptv.net:80/aliosman1/01220013722/190152
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 SD" tvg-logo="http://eaiptv.net:80/images/U0Mx6iEF90NYkqAcpBI6i1cGnrpYCeuE9rWgsKy7j3IIsjy7y-R2RngPSB9fuuODwrNpQwJRQk6FoEpZ6CoVTYRqxg_RP7jX446wvrQGk7g.png" group-title="beIN SP⚽RTS SD 2M- LIVE",beIN SPORTS 4 SD
+http://eaiptv.net:80/aliosman1/01220013722/190153
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 SD" tvg-logo="http://eaiptv.net:80/images/U0Mx6iEF90NYkqAcpBI6i0E0I-B4ZbZLroXS-3qbBRFQkcHMeW-lg-JmjEltk7EuTZ0sdFZS0g7uz2iz7SzIX_0-kVi4MAndHL4z_mxjTbw.png" group-title="beIN SP⚽RTS SD 2M- LIVE",beIN SPORTS 5 SD
+http://eaiptv.net:80/aliosman1/01220013722/190154
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 SD" tvg-logo="http://eaiptv.net:80/images/U0Mx6iEF90NYkqAcpBI6i4M-Zgl9RQ-iVb1wAAouwc6w95Ygepi8PHyBADJaMc3qMrjVH5QUcKpx_2RnHB06grtRmc4J9laZshPJjOhiZic.png" group-title="beIN SP⚽RTS SD 2M- LIVE",beIN SPORTS 6 SD
+http://eaiptv.net:80/aliosman1/01220013722/190155
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 SD" tvg-logo="http://eaiptv.net:80/images/U0Mx6iEF90NYkqAcpBI6i2Vwinp6KLOB0QXo2Y_UkfSj62ZUcIsdIf8iYcATA_tuz8hsW2zmwYFc6ihjhSzR32Eb0poGxRYWjoV5_VBTqww.png" group-title="beIN SP⚽RTS SD 2M- LIVE",beIN SPORTS 7 SD
+http://eaiptv.net:80/aliosman1/01220013722/190156
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 8 SD" tvg-logo="http://eaiptv.net:80/images/U0Mx6iEF90NYkqAcpBI6i1cGnrpYCeuE9rWgsKy7j3IptlvA-m0VK-I7nmj7v9RPq1ELbnPKFLTNh5f3GRiaJLmE3386liLLRB4lv-Cb1ns.png" group-title="beIN SP⚽RTS SD 2M- LIVE",beIN SPORTS 8 SD
+http://eaiptv.net:80/aliosman1/01220013722/190157
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 9 SD" tvg-logo="http://eaiptv.net:80/images/U0Mx6iEF90NYkqAcpBI6i66HIVt7lXd4091jP7sLYwWT6E8KrjF1fAn5UEyk5cp6exEF8NMuTvdlMBhBqG-YPJGnvJmLUInpTmxJamM4l8g.png" group-title="beIN SP⚽RTS SD 2M- LIVE",beIN SPORTS 9 SD
+http://eaiptv.net:80/aliosman1/01220013722/190158
+#EXTINF:-1 tvg-id="" tvg-name="|GER.SPORT| DYN SPORTS 1" tvg-logo="http://eaiptv.net:80/images/xYlI4Zmu1zS4i_y4r2WF1cw3LExWn2m-Pgq0YXHizD60txjnU-Vwvxd2AnlvOT5XqCSXhBRags5IyJaAS7m2cwRa-m3auCNo3YFfKAcB7Vw.png" group-title="|D Y N  HD CHANNEL LIVE|",|GER.SPORT| DYN SPORTS 1
+http://eaiptv.net:80/aliosman1/01220013722/181074
+#EXTINF:-1 tvg-id="" tvg-name="|GER.SPORT| DYN SPORTS 2" tvg-logo="http://eaiptv.net:80/images/xYlI4Zmu1zS4i_y4r2WF1cw3LExWn2m-Pgq0YXHizD60txjnU-Vwvxd2AnlvOT5XqCSXhBRags5IyJaAS7m2cwRa-m3auCNo3YFfKAcB7Vw.png" group-title="|D Y N  HD CHANNEL LIVE|",|GER.SPORT| DYN SPORTS 2
+http://eaiptv.net:80/aliosman1/01220013722/181075
+#EXTINF:-1 tvg-id="" tvg-name="|GER.SPORT| DYN SPORTS 3" tvg-logo="http://eaiptv.net:80/images/xYlI4Zmu1zS4i_y4r2WF1cw3LExWn2m-Pgq0YXHizD60txjnU-Vwvxd2AnlvOT5XqCSXhBRags5IyJaAS7m2cwRa-m3auCNo3YFfKAcB7Vw.png" group-title="|D Y N  HD CHANNEL LIVE|",|GER.SPORT| DYN SPORTS 3
+http://eaiptv.net:80/aliosman1/01220013722/181076
+#EXTINF:-1 tvg-id="" tvg-name="|GER.SPORT| DYN SPORTS 4" tvg-logo="http://eaiptv.net:80/images/xYlI4Zmu1zS4i_y4r2WF1cw3LExWn2m-Pgq0YXHizD60txjnU-Vwvxd2AnlvOT5XqCSXhBRags5IyJaAS7m2cwRa-m3auCNo3YFfKAcB7Vw.png" group-title="|D Y N  HD CHANNEL LIVE|",|GER.SPORT| DYN SPORTS 4
+http://eaiptv.net:80/aliosman1/01220013722/181077
+#EXTINF:-1 tvg-id="" tvg-name="|GER.SPORT| DYN SPORTS 5" tvg-logo="http://eaiptv.net:80/images/xYlI4Zmu1zS4i_y4r2WF1cw3LExWn2m-Pgq0YXHizD60txjnU-Vwvxd2AnlvOT5XqCSXhBRags5IyJaAS7m2cwRa-m3auCNo3YFfKAcB7Vw.png" group-title="|D Y N  HD CHANNEL LIVE|",|GER.SPORT| DYN SPORTS 5
+http://eaiptv.net:80/aliosman1/01220013722/181078
+#EXTINF:-1 tvg-id="" tvg-name="|GER.SPORT| DYN SPORTS 6" tvg-logo="http://eaiptv.net:80/images/xYlI4Zmu1zS4i_y4r2WF1cw3LExWn2m-Pgq0YXHizD60txjnU-Vwvxd2AnlvOT5XqCSXhBRags5IyJaAS7m2cwRa-m3auCNo3YFfKAcB7Vw.png" group-title="|D Y N  HD CHANNEL LIVE|",|GER.SPORT| DYN SPORTS 6
+http://eaiptv.net:80/aliosman1/01220013722/181079
+#EXTINF:-1 tvg-id="" tvg-name="|GER.SPORT| DYN SPORTS 7" tvg-logo="http://eaiptv.net:80/images/xYlI4Zmu1zS4i_y4r2WF1cw3LExWn2m-Pgq0YXHizD60txjnU-Vwvxd2AnlvOT5XqCSXhBRags5IyJaAS7m2cwRa-m3auCNo3YFfKAcB7Vw.png" group-title="|D Y N  HD CHANNEL LIVE|",|GER.SPORT| DYN SPORTS 7
+http://eaiptv.net:80/aliosman1/01220013722/181080
+#EXTINF:-1 tvg-id="" tvg-name="|GER.SPORT| DYN SPORTS 8" tvg-logo="http://eaiptv.net:80/images/xYlI4Zmu1zS4i_y4r2WF1cw3LExWn2m-Pgq0YXHizD60txjnU-Vwvxd2AnlvOT5XqCSXhBRags5IyJaAS7m2cwRa-m3auCNo3YFfKAcB7Vw.png" group-title="|D Y N  HD CHANNEL LIVE|",|GER.SPORT| DYN SPORTS 8
+http://eaiptv.net:80/aliosman1/01220013722/181081
+#EXTINF:-1 tvg-id="" tvg-name="|GER.SPORT| DYN SPORTS 9" tvg-logo="http://eaiptv.net:80/images/xYlI4Zmu1zS4i_y4r2WF1cw3LExWn2m-Pgq0YXHizD60txjnU-Vwvxd2AnlvOT5XqCSXhBRags5IyJaAS7m2cwRa-m3auCNo3YFfKAcB7Vw.png" group-title="|D Y N  HD CHANNEL LIVE|",|GER.SPORT| DYN SPORTS 9
+http://eaiptv.net:80/aliosman1/01220013722/181082
+#EXTINF:-1 tvg-id="" tvg-name="|GER.SPORT| DYN SPORTS 10" tvg-logo="http://eaiptv.net:80/images/xYlI4Zmu1zS4i_y4r2WF1cw3LExWn2m-Pgq0YXHizD60txjnU-Vwvxd2AnlvOT5XqCSXhBRags5IyJaAS7m2cwRa-m3auCNo3YFfKAcB7Vw.png" group-title="|D Y N  HD CHANNEL LIVE|",|GER.SPORT| DYN SPORTS 10
+http://eaiptv.net:80/aliosman1/01220013722/181083
+#EXTINF:-1 tvg-id="" tvg-name="[KSA] KSA STC Sports 1" tvg-logo="http://sniperstv.cc:8080/images/lJG1twWijNCqIs_KjRpFkxhJkQBRKWP6SOkjmcEZYt73MqXcjaaIM95HSY6q069cS4haNLvI02ZUaQIZKZxMcMCKxZM08mhSV87P3KQvSJUUn9uDQMsA4jjl9gehGN7J8lNPV4r8U8Am5CfuaXnwo3bjYImQ5VziMXqreTC6nBQ1rqgLFAK-g5JEZ5FpabKL.png" group-title="|STC CHANNEL LIVE|",[KSA] KSA STC Sports 1
+http://eaiptv.net:80/aliosman1/01220013722/190110
+#EXTINF:-1 tvg-id="" tvg-name="[KSA] KSA STC Sports 2" tvg-logo="http://sniperstv.cc:8080/images/lJG1twWijNCqIs_KjRpFkxhJkQBRKWP6SOkjmcEZYt73MqXcjaaIM95HSY6q069cS4haNLvI02ZUaQIZKZxMcMCKxZM08mhSV87P3KQvSJUUn9uDQMsA4jjl9gehGN7J8lNPV4r8U8Am5CfuaXnwo3bjYImQ5VziMXqreTC6nBQ1rqgLFAK-g5JEZ5FpabKL.png" group-title="|STC CHANNEL LIVE|",[KSA] KSA STC Sports 2
+http://eaiptv.net:80/aliosman1/01220013722/190111
+#EXTINF:-1 tvg-id="" tvg-name="[KSA] KSA STC Sports  3" tvg-logo="" group-title="|STC CHANNEL LIVE|",[KSA] KSA STC Sports  3
+http://eaiptv.net:80/aliosman1/01220013722/190686
+#EXTINF:-1 tvg-id="" tvg-name="[KSA] KSA STC CINEMA" tvg-logo="http://sniperstv.cc:8080/images/CFv7P5utRl_fqNZNDZlsvwijKiu_Y-0I2tjerFBH1n0ykKr2-fnv7qlJcIe3YrQK1QH4so8VsBAnN3tqm7zigIJubLawQJIHIQJzpanT5GsUS_lUFUy3_61D4NG6hInmvOMFgflsgptsfTLI3-Whcwr9u3QeyKYZDy6zwnWx2CIqB4jKH1hiKWM4WFaOSA0Z.png" group-title="|STC CHANNEL LIVE|",[KSA] KSA STC CINEMA
+http://eaiptv.net:80/aliosman1/01220013722/190112
+#EXTINF:-1 tvg-id="" tvg-name="[KSA] KSA STC DRAMA" tvg-logo="http://sniperstv.cc:8080/images/CFv7P5utRl_fqNZNDZlsvwijKiu_Y-0I2tjerFBH1n0ykKr2-fnv7qlJcIe3YrQK1QH4so8VsBAnN3tqm7zigIJubLawQJIHIQJzpanT5GsUS_lUFUy3_61D4NG6hInmvOMFgflsgptsfTLI3-Whcwr9u3QeyKYZDy6zwnWx2CIqB4jKH1hiKWM4WFaOSA0Z.png" group-title="|STC CHANNEL LIVE|",[KSA] KSA STC DRAMA
+http://eaiptv.net:80/aliosman1/01220013722/190113
+#EXTINF:-1 tvg-id="" tvg-name="[KSA] KSA STC E.SPORTS" tvg-logo="http://sniperstv.cc:8080/images/CFv7P5utRl_fqNZNDZlsvwijKiu_Y-0I2tjerFBH1n0ykKr2-fnv7qlJcIe3YrQK1QH4so8VsBAnN3tqm7zigIJubLawQJIHIQJzpanT5GsUS_lUFUy3_61D4NG6hInmvOMFgflsgptsfTLI3-Whcwr9u3QeyKYZDy6zwnWx2CIqB4jKH1hiKWM4WFaOSA0Z.png" group-title="|STC CHANNEL LIVE|",[KSA] KSA STC E.SPORTS
+http://eaiptv.net:80/aliosman1/01220013722/190114
+#EXTINF:-1 tvg-id="" tvg-name="[KSA] KSA STC FAMILY" tvg-logo="http://sniperstv.cc:8080/images/CFv7P5utRl_fqNZNDZlsvwijKiu_Y-0I2tjerFBH1n0ykKr2-fnv7qlJcIe3YrQK1QH4so8VsBAnN3tqm7zigIJubLawQJIHIQJzpanT5GsUS_lUFUy3_61D4NG6hInmvOMFgflsgptsfTLI3-Whcwr9u3QeyKYZDy6zwnWx2CIqB4jKH1hiKWM4WFaOSA0Z.png" group-title="|STC CHANNEL LIVE|",[KSA] KSA STC FAMILY
+http://eaiptv.net:80/aliosman1/01220013722/190115
+#EXTINF:-1 tvg-id="bein-sport-1" tvg-name="BeIN_SPORTS_1HD_1080p" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw_D8_0pVSt4I85npgttWQBaEurb7D7pcmRqC0LAk_xsnHpPT7bhJ_1dxxqW5N3VYtqfX9h1kJ3C46SyJa5z4hhu_Qn4ZabfOc7H2-KLAzlXjL2eMN0jizKJta_xjjtdSoSY4mhFBZAfAiOnzVmxpWqMm2M7rfun2l9d1VGa6jYT6.png" group-title="beIN SP⚽RTS  1080 HD- LIVE",BeIN_SPORTS_1HD_1080p
+http://eaiptv.net:80/aliosman1/01220013722/125817
+#EXTINF:-1 tvg-id="bein-sport-2" tvg-name="BeIN_SPORTS_2HD_1080p" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw_D8_0pVSt4I85npgttWQBaEurb7D7pcmRqC0LAk_xsnHpPT7bhJ_1dxxqW5N3VYttypbZY_SX9Rfd61Xu-jlnpKMdsZPIsercJcyHb1gGy7Ckrpo4njvFEzf18TNWHFuEUzw0217QgVOl5eX7XDG5F2-B252WlfQaEa-3V3P363.png" group-title="beIN SP⚽RTS  1080 HD- LIVE",BeIN_SPORTS_2HD_1080p
+http://eaiptv.net:80/aliosman1/01220013722/125951
+#EXTINF:-1 tvg-id="bein-sport-3" tvg-name="BeIN_SPORTS_3HD_1080p" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw_D8_0pVSt4I85npgttWQBaEurb7D7pcmRqC0LAk_xsnHpPT7bhJ_1dxxqW5N3VYtqfX9h1kJ3C46SyJa5z4hhvyMxzwlk3L1oGaNPTz3AYyZ-xoOmZGZ6wy3hKZBzxdarD6Rb2m5C0ATOt-YLFn2FoO_8mbX5H7-22JRGQD9BUH.png" group-title="beIN SP⚽RTS  1080 HD- LIVE",BeIN_SPORTS_3HD_1080p
+http://eaiptv.net:80/aliosman1/01220013722/125948
+#EXTINF:-1 tvg-id="bein-sport-4" tvg-name="BeIN_SPORTS_4HD_1080p" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw_D8_0pVSt4I85npgttWQBaEurb7D7pcmRqC0LAk_xsnHpPT7bhJ_1dxxqW5N3VYtqfX9h1kJ3C46SyJa5z4hhvkaFrVBWQf_f82I9-UDDoV4a_mTSEBwvFyrRczQiOET2iIstoHRy5zTOaIA4wBalrrGX1x9Jwpr_7DbQNTRJ6B.png" group-title="beIN SP⚽RTS  1080 HD- LIVE",BeIN_SPORTS_4HD_1080p
+http://eaiptv.net:80/aliosman1/01220013722/125947
+#EXTINF:-1 tvg-id="bein-sport-5" tvg-name="BeIN_SPORTS_5HD_1080p" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw_D8_0pVSt4I85npgttWQBaEurb7D7pcmRqC0LAk_xsnHpPT7bhJ_1dxxqW5N3VYtqfX9h1kJ3C46SyJa5z4hhvrfKBhkOXiKlDo-KZ_HDwABq0_9ckV_Buup8KHLrA3n4QCPkL1CjhRLwKqpMhsPb6n4iqu-VROEmZkRSzhQu5r.png" group-title="beIN SP⚽RTS  1080 HD- LIVE",BeIN_SPORTS_5HD_1080p
+http://eaiptv.net:80/aliosman1/01220013722/125937
+#EXTINF:-1 tvg-id="bein-sport-6" tvg-name="BeIN_SPORTS_6HD_1080p" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw_D8_0pVSt4I85npgttWQBaEurb7D7pcmRqC0LAk_xsnHpPT7bhJ_1dxxqW5N3VYttypbZY_SX9Rfd61Xu-jlnp6RDztK4G-72PiRFsw1uBzfWHoMUZY8-uJPJjsfxKKYQ_3w9PGYkXhUAncMTHl_GmNvGeUgIdIBrK4SCT3eW7l.png" group-title="beIN SP⚽RTS  1080 HD- LIVE",BeIN_SPORTS_6HD_1080p
+http://eaiptv.net:80/aliosman1/01220013722/125938
+#EXTINF:-1 tvg-id="bein-sport-7" tvg-name="BeIN_SPORTS_7HD_1080p" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw_D8_0pVSt4I85npgttWQBaEurb7D7pcmRqC0LAk_xsnHpPT7bhJ_1dxxqW5N3VYtqfX9h1kJ3C46SyJa5z4hhtxURmp88qvL5KvFyrYKYqseOxPAhLTYc-5WfJPPvnGoxJTMPu3Hel5_kcy11HE7k95CVkiN9JV9CpeuGnTMWyW.png" group-title="beIN SP⚽RTS  1080 HD- LIVE",BeIN_SPORTS_7HD_1080p
+http://eaiptv.net:80/aliosman1/01220013722/125939
+#EXTINF:-1 tvg-id="0x0-fireplace-hd" tvg-name="BeIN_SPORTS_8HD_1080p" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw_D8_0pVSt4I85npgttWQBaEurb7D7pcmRqC0LAk_xsnHpPT7bhJ_1dxxqW5N3VYtqPujefcO6RreKwPCxTlQyjDJ8D47T0rLjoguBbVYeCGzP-KH9nL_5efpFYc-7r1UlbhZqcfmkH2PXYCg7L8QehYU51OcoTdD5b4XOACiSb4.png" group-title="beIN SP⚽RTS  1080 HD- LIVE",BeIN_SPORTS_8HD_1080p
+http://eaiptv.net:80/aliosman1/01220013722/125940
+#EXTINF:-1 tvg-id="0x0-fireplace-hd" tvg-name="BeIN_SPORTS_9HD_1080p" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-GwyTtuOXkZN9sO5rKkc5CcV2wCeycN82CN__B0K9dbQazQ47opWNEx59sBFaqhzZFbZ38SsBTe5vYvoOrm1rFHs7rAHGEnQydzVoGnwYlPlWnv-0ubjUZEL0CUpS5_DYqPtYcTwIWSMeWFyCrdFZlnlkD2cdN5OcpREj_DKYYHu0p.png" group-title="beIN SP⚽RTS  1080 HD- LIVE",BeIN_SPORTS_9HD_1080p
+http://eaiptv.net:80/aliosman1/01220013722/125941
+#EXTINF:-1 tvg-id="0x0-fireplace-hd" tvg-name="BeiN Sports XTRA 1 1080P" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-GwyNG0iFwHE73cvSPWayo3VwCVI4qSwzsmtVEPV_7YachH6tEy0q6Xa2PNYio_A9q2wYCU3kyI-GO41QeSUpmEH0.png" group-title="beIN SP⚽RTS  1080 HD- LIVE",BeiN Sports XTRA 1 1080P
+http://eaiptv.net:80/aliosman1/01220013722/125950
+#EXTINF:-1 tvg-id="0x0-fireplace-hd" tvg-name="BeiN Sports XTRA 2 1080P" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-GwxQ5JrltHhpWHgb-d6qMhCYVh-fy7BDOeXPtHYeoZtDQ1VXhHL4GTr0Qer_kavFePH_DPpgM1rH5jAvPbX67qVY.png" group-title="beIN SP⚽RTS  1080 HD- LIVE",BeiN Sports XTRA 2 1080P
+http://eaiptv.net:80/aliosman1/01220013722/125943
+#EXTINF:-1 tvg-id="bein-sports-news" tvg-name="BEIN SPORTS NEWS HD" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw2E8ilf76PMaJc8vAn1h-BjP_XyJSkG67172817w-sNmxchRNHxAP4uYqA6CbR81Uk2FT6vaYKqFitEhtO9yvIo.png" group-title="beIN SP⚽RTS  1080 HD- LIVE",BEIN SPORTS NEWS HD
+http://eaiptv.net:80/aliosman1/01220013722/125944
+#EXTINF:-1 tvg-id="MBC Masr 1 FHD+" tvg-name="BEIN SPORTS 1 ENGLISH 1080P" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw-8Xt4jEtpgXdYncwDUWyo2WIz6H1cAX_HEfmK8Td_3btGQAZOaw4SraCOlQLx7gT36GP9b3AHQVKwHbdhOM5JE.png" group-title="beIN SP⚽RTS  1080 HD- LIVE",BEIN SPORTS 1 ENGLISH 1080P
+http://eaiptv.net:80/aliosman1/01220013722/125945
+#EXTINF:-1 tvg-id="0x0-fireplace-hd" tvg-name="BeIN_SPORTS_1HD_4k" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw_D8_0pVSt4I85npgttWQBaEurb7D7pcmRqC0LAk_xsnHpPT7bhJ_1dxxqW5N3VYtqfX9h1kJ3C46SyJa5z4hhu_Qn4ZabfOc7H2-KLAzlXjL2eMN0jizKJta_xjjtdSoSY4mhFBZAfAiOnzVmxpWqMm2M7rfun2l9d1VGa6jYT6.png" group-title="beIN SP⚽RTS  4M HQ- LIVE",BeIN_SPORTS_1HD_4k
+http://eaiptv.net:80/aliosman1/01220013722/139965
+#EXTINF:-1 tvg-id="0x0-fireplace-hd" tvg-name="BeIN_SPORTS_2HD_4k" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw_D8_0pVSt4I85npgttWQBaEurb7D7pcmRqC0LAk_xsnHpPT7bhJ_1dxxqW5N3VYttypbZY_SX9Rfd61Xu-jlnpKMdsZPIsercJcyHb1gGy7Ckrpo4njvFEzf18TNWHFuEUzw0217QgVOl5eX7XDG5F2-B252WlfQaEa-3V3P363.png" group-title="beIN SP⚽RTS  4M HQ- LIVE",BeIN_SPORTS_2HD_4k
+http://eaiptv.net:80/aliosman1/01220013722/139966
+#EXTINF:-1 tvg-id="0x0-fireplace-hd" tvg-name="BeIN_SPORTS_3HD_4k" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw_D8_0pVSt4I85npgttWQBaEurb7D7pcmRqC0LAk_xsnHpPT7bhJ_1dxxqW5N3VYtqfX9h1kJ3C46SyJa5z4hhvyMxzwlk3L1oGaNPTz3AYyZ-xoOmZGZ6wy3hKZBzxdarD6Rb2m5C0ATOt-YLFn2FoO_8mbX5H7-22JRGQD9BUH.png" group-title="beIN SP⚽RTS  4M HQ- LIVE",BeIN_SPORTS_3HD_4k
+http://eaiptv.net:80/aliosman1/01220013722/139967
+#EXTINF:-1 tvg-id="0x0-fireplace-hd" tvg-name="BeIN_SPORTS_4HD_4k." tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw_D8_0pVSt4I85npgttWQBaEurb7D7pcmRqC0LAk_xsnHpPT7bhJ_1dxxqW5N3VYtqfX9h1kJ3C46SyJa5z4hhvkaFrVBWQf_f82I9-UDDoV4a_mTSEBwvFyrRczQiOET2iIstoHRy5zTOaIA4wBalrrGX1x9Jwpr_7DbQNTRJ6B.png" group-title="beIN SP⚽RTS  4M HQ- LIVE",BeIN_SPORTS_4HD_4k.
+http://eaiptv.net:80/aliosman1/01220013722/139968
+#EXTINF:-1 tvg-id="0x0-fireplace-hd" tvg-name="BeIN_SPORTS_5HD_4k" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw_D8_0pVSt4I85npgttWQBaEurb7D7pcmRqC0LAk_xsnHpPT7bhJ_1dxxqW5N3VYtqfX9h1kJ3C46SyJa5z4hhvrfKBhkOXiKlDo-KZ_HDwABq0_9ckV_Buup8KHLrA3n4QCPkL1CjhRLwKqpMhsPb6n4iqu-VROEmZkRSzhQu5r.png" group-title="beIN SP⚽RTS  4M HQ- LIVE",BeIN_SPORTS_5HD_4k
+http://eaiptv.net:80/aliosman1/01220013722/139969
+#EXTINF:-1 tvg-id="0x0-fireplace-hd" tvg-name="BeIN_SPORTS_6HD_4k" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw_D8_0pVSt4I85npgttWQBaEurb7D7pcmRqC0LAk_xsnHpPT7bhJ_1dxxqW5N3VYttypbZY_SX9Rfd61Xu-jlnp6RDztK4G-72PiRFsw1uBzfWHoMUZY8-uJPJjsfxKKYQ_3w9PGYkXhUAncMTHl_GmNvGeUgIdIBrK4SCT3eW7l.png" group-title="beIN SP⚽RTS  4M HQ- LIVE",BeIN_SPORTS_6HD_4k
+http://eaiptv.net:80/aliosman1/01220013722/139970
+#EXTINF:-1 tvg-id="0x0-fireplace-hd" tvg-name="BeIN_SPORTS_7HD_4k" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw_D8_0pVSt4I85npgttWQBaEurb7D7pcmRqC0LAk_xsnHpPT7bhJ_1dxxqW5N3VYtqfX9h1kJ3C46SyJa5z4hhtxURmp88qvL5KvFyrYKYqseOxPAhLTYc-5WfJPPvnGoxJTMPu3Hel5_kcy11HE7k95CVkiN9JV9CpeuGnTMWyW.png" group-title="beIN SP⚽RTS  4M HQ- LIVE",BeIN_SPORTS_7HD_4k
+http://eaiptv.net:80/aliosman1/01220013722/139971
+#EXTINF:-1 tvg-id="0x0-fireplace-hd" tvg-name="BeIN_SPORTS_8HD_4k" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw_D8_0pVSt4I85npgttWQBaEurb7D7pcmRqC0LAk_xsnHpPT7bhJ_1dxxqW5N3VYtqPujefcO6RreKwPCxTlQyjDJ8D47T0rLjoguBbVYeCGzP-KH9nL_5efpFYc-7r1UlbhZqcfmkH2PXYCg7L8QehYU51OcoTdD5b4XOACiSb4.png" group-title="beIN SP⚽RTS  4M HQ- LIVE",BeIN_SPORTS_8HD_4k
+http://eaiptv.net:80/aliosman1/01220013722/139972
+#EXTINF:-1 tvg-id="0x0-fireplace-hd" tvg-name="BeIN_SPORTS_9HD_4k" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-GwyTtuOXkZN9sO5rKkc5CcV2wCeycN82CN__B0K9dbQazQ47opWNEx59sBFaqhzZFbZ38SsBTe5vYvoOrm1rFHs7rAHGEnQydzVoGnwYlPlWnv-0ubjUZEL0CUpS5_DYqPtYcTwIWSMeWFyCrdFZlnlkD2cdN5OcpREj_DKYYHu0p.png" group-title="beIN SP⚽RTS  4M HQ- LIVE",BeIN_SPORTS_9HD_4k
+http://eaiptv.net:80/aliosman1/01220013722/139973
+#EXTINF:-1 tvg-id="IONPlus" tvg-name="BeiN Sports XTRA 1 4k" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gwyp16mAEnOkSjtWyRNnlVdhkUQa8Ft89l7Xyetcaj9k4-D2SooV0QBWPk9hEhyuHufi30Dpe6ouMY_hXHiaX3CUcBNR7giMlNW7QuItKW5wqTy5gzxVako_Nq4hqxug3iHLqM4sE9k3j9XdZHtsuos_nfSV4cP0KfdlG-7dFcMNF.png" group-title="beIN SP⚽RTS  4M HQ- LIVE",BeiN Sports XTRA 1 4k
+http://eaiptv.net:80/aliosman1/01220013722/139974
+#EXTINF:-1 tvg-id="IONPlus" tvg-name="BeiN Sports XTRA 2 4k" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gwyp16mAEnOkSjtWyRNnlVdhkUQa8Ft89l7Xyetcaj9k4GZIFadi7Epg7dA_XVr-850hdhTc0QiEMGiiTypG1rfcCoWPSk5U3B-LymL8QnFl3vpjRV-C6nJza4i_VepwUa6wLffCWDQDv_sw6TDOM7XzrJx1OjEFrFpSOUT_Pl5TH.png" group-title="beIN SP⚽RTS  4M HQ- LIVE",BeiN Sports XTRA 2 4k
+http://eaiptv.net:80/aliosman1/01220013722/139975
+#EXTINF:-1 tvg-id="IONPlus" tvg-name="BEIN SPORTS NEWS HD" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gwyp16mAEnOkSjtWyRNnlVdhkUQa8Ft89l7Xyetcaj9k4vxRiTL6UbR6GTJedNhQFzELtarEa99aeuJnOqPUBNPF1dW8ouziM61oWuqxeBrTtLrWIDMCvMRJhL51wxdEe4tNjMceXGm2D9Tk3bLijJ9UiMkPRrLUMh_nC9LBekpRV.png" group-title="beIN SP⚽RTS  4M HQ- LIVE",BEIN SPORTS NEWS HD
+http://eaiptv.net:80/aliosman1/01220013722/139976
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 ENGLISH 4k" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gwyp16mAEnOkSjtWyRNnlVdhkUQa8Ft89l7Xyetcaj9k4CIF_5g0jRHKmOQIEXpkrGoMm75Akt7YbzjdU6RST21o6wECDB89dO9AM3wzVZZp4XiRK1fCcHPnLHPiptLhwWtBezIiu_Mu7-cawO4YWimExAeeyl_LLS-3FxkgRbuRC.png" group-title="beIN SP⚽RTS  4M HQ- LIVE",BEIN SPORTS 1 ENGLISH 4k
+http://eaiptv.net:80/aliosman1/01220013722/139977
+#EXTINF:-1 tvg-id="MBC Variety HD" tvg-name="BEIN SPORTS 2 ENGLISH 4k" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gwyp16mAEnOkSjtWyRNnlVdhkUQa8Ft89l7Xyetcaj9k40DsQizp3kiGykiNRhTJj9898mj-in168gHwX3TLaKLbyWBjuCKPGcKfxnFHNd8rmNSw2vCnyHOnAixhudIYuHW8170yz7JpMZzDXmA0D71ZzMro2KWghMZdrrwN6XWoq.png" group-title="beIN SP⚽RTS  4M HQ- LIVE",BEIN SPORTS 2 ENGLISH 4k
+http://eaiptv.net:80/aliosman1/01220013722/139978
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Sport 1 Hd" tvg-logo="https://pbs.twimg.com/media/F3gSwPPX0Ao8JTj.jpg:large" group-title="|Shahid Sport CHANNEL LIVE|",Shahid Sport 1 Hd
+http://eaiptv.net:80/aliosman1/01220013722/176278
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Sport 2 Hd" tvg-logo="https://pbs.twimg.com/media/F3gSwPPX0Ao8JTj.jpg:large" group-title="|Shahid Sport CHANNEL LIVE|",Shahid Sport 2 Hd
+http://eaiptv.net:80/aliosman1/01220013722/176279
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Sport 3 Hd" tvg-logo="https://pbs.twimg.com/media/F3gSwPPX0Ao8JTj.jpg:large" group-title="|Shahid Sport CHANNEL LIVE|",Shahid Sport 3 Hd
+http://eaiptv.net:80/aliosman1/01220013722/176280
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Sport 4 Hd" tvg-logo="https://pbs.twimg.com/media/F3gSwPPX0Ao8JTj.jpg:large" group-title="|Shahid Sport CHANNEL LIVE|",Shahid Sport 4 Hd
+http://eaiptv.net:80/aliosman1/01220013722/176281
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Sport 5 Hd" tvg-logo="https://pbs.twimg.com/media/F3gSwPPX0Ao8JTj.jpg:large" group-title="|Shahid Sport CHANNEL LIVE|",Shahid Sport 5 Hd
+http://eaiptv.net:80/aliosman1/01220013722/176282
+#EXTINF:-1 tvg-id="" tvg-name="AD SPORT 1 HD" tvg-logo="http://eaiptv.net:80/images/p4o1viJwVnMYgEHdxW7U_TadfFMdU-oH5QKUTT7WxwyOSLnwI8SWFT9mzDWKRxq2RWZn28kRLb2g2J1V2AMZZHmhY9wnjvwndO_-USp5Jgc.png" group-title="|AD SPORT CHANNEL LIVE|",AD SPORT 1 HD
+http://eaiptv.net:80/aliosman1/01220013722/190106
+#EXTINF:-1 tvg-id="" tvg-name="AD SPORT 2 HD" tvg-logo="http://eaiptv.net:80/images/p4o1viJwVnMYgEHdxW7U_TadfFMdU-oH5QKUTT7WxwyOSLnwI8SWFT9mzDWKRxq2kvjhqPjHLf2koJ4TbUP9EzyQIiTu4EAukSJKz4n9LEs.png" group-title="|AD SPORT CHANNEL LIVE|",AD SPORT 2 HD
+http://eaiptv.net:80/aliosman1/01220013722/190107
+#EXTINF:-1 tvg-id="" tvg-name="AD Sport Premium 1 HD backup" tvg-logo="http://eaiptv.net:80/images/I9AgY4ai2klaytZGx_jbIIgUEwweIRp2ZL-8VRozeCQbZ2E42SHg3J6kLzQ_8iu0.jpg" group-title="|AD SPORT CHANNEL LIVE|",AD Sport Premium 1 HD backup
+http://eaiptv.net:80/aliosman1/01220013722/190108
+#EXTINF:-1 tvg-id="" tvg-name="AD Sport Premium 2 HD backup" tvg-logo="http://eaiptv.net:80/images/I9AgY4ai2klaytZGx_jbIIgUEwweIRp2ZL-8VRozeCQhfAOFf10o8ao1aOiH1LJg.jpg" group-title="|AD SPORT CHANNEL LIVE|",AD Sport Premium 2 HD backup
+http://eaiptv.net:80/aliosman1/01220013722/190109
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 HD" tvg-logo="http://eaiptv.net:80/images/U0Mx6iEF90NYkqAcpBI6i9wLuDRbcl4QMb83WlEOY1M8okZO78sIYrx5pUaCacmX74AE-8uW_d7Zd3JtDNAGf7FypxGZ3NtaybXRYUvoLE8.png" group-title="beIN SP⚽RTS  H265 LOW- LIVE",beIN SPORTS 1 HD
+http://eaiptv.net:80/aliosman1/01220013722/190159
+#EXTINF:-1 tvg-id="" tvg-name="|ARB.SPORT| ABU DHABI SPORT 1 FHD" tvg-logo="" group-title="|ARABIC SPORT CHANNEL LIVE|",|ARB.SPORT| ABU DHABI SPORT 1 FHD
+http://eaiptv.net:80/aliosman1/01220013722/190116
+#EXTINF:-1 tvg-id="" tvg-name="|ARB.SPORT| ABU DHABI SPORT 2 HD" tvg-logo="" group-title="|ARABIC SPORT CHANNEL LIVE|",|ARB.SPORT| ABU DHABI SPORT 2 HD
+http://eaiptv.net:80/aliosman1/01220013722/190117
+#EXTINF:-1 tvg-id="" tvg-name="|ARB.SPORT| AL KASS ONE FHD" tvg-logo="" group-title="|ARABIC SPORT CHANNEL LIVE|",|ARB.SPORT| AL KASS ONE FHD
+http://eaiptv.net:80/aliosman1/01220013722/190118
+#EXTINF:-1 tvg-id="" tvg-name="|ARB.SPORT| BAHRAIN SPORT 1 HD" tvg-logo="" group-title="|ARABIC SPORT CHANNEL LIVE|",|ARB.SPORT| BAHRAIN SPORT 1 HD
+http://eaiptv.net:80/aliosman1/01220013722/190119
+#EXTINF:-1 tvg-id="" tvg-name="|ARB.SPORT| BAHRAIN SPORT 2 HD" tvg-logo="" group-title="|ARABIC SPORT CHANNEL LIVE|",|ARB.SPORT| BAHRAIN SPORT 2 HD
+http://eaiptv.net:80/aliosman1/01220013722/190120
+#EXTINF:-1 tvg-id="" tvg-name="|ARB.SPORT| DUBAI RACING 1 HD" tvg-logo="" group-title="|ARABIC SPORT CHANNEL LIVE|",|ARB.SPORT| DUBAI RACING 1 HD
+http://eaiptv.net:80/aliosman1/01220013722/190121
+#EXTINF:-1 tvg-id="" tvg-name="|ARB.SPORT| DUBAI SPORTS 1 FHD" tvg-logo="" group-title="|ARABIC SPORT CHANNEL LIVE|",|ARB.SPORT| DUBAI SPORTS 1 FHD
+http://eaiptv.net:80/aliosman1/01220013722/190122
+#EXTINF:-1 tvg-id="" tvg-name="|ARB.SPORT| DUBAI SPORTS 2 FHD" tvg-logo="" group-title="|ARABIC SPORT CHANNEL LIVE|",|ARB.SPORT| DUBAI SPORTS 2 FHD
+http://eaiptv.net:80/aliosman1/01220013722/190123
+#EXTINF:-1 tvg-id="" tvg-name="|ARB.SPORT| DUBAI SPORTS 3 HD" tvg-logo="" group-title="|ARABIC SPORT CHANNEL LIVE|",|ARB.SPORT| DUBAI SPORTS 3 HD
+http://eaiptv.net:80/aliosman1/01220013722/190124
+#EXTINF:-1 tvg-id="" tvg-name="|ARB.SPORT| KUWAIT SPORT HD" tvg-logo="" group-title="|ARABIC SPORT CHANNEL LIVE|",|ARB.SPORT| KUWAIT SPORT HD
+http://eaiptv.net:80/aliosman1/01220013722/190125
+#EXTINF:-1 tvg-id="" tvg-name="|ARB.SPORT| KUWAIT SPORT PLUS SD" tvg-logo="" group-title="|ARABIC SPORT CHANNEL LIVE|",|ARB.SPORT| KUWAIT SPORT PLUS SD
+http://eaiptv.net:80/aliosman1/01220013722/190126
+#EXTINF:-1 tvg-id="" tvg-name="|ARB.SPORT| SHARJAH SPORT SD" tvg-logo="" group-title="|ARABIC SPORT CHANNEL LIVE|",|ARB.SPORT| SHARJAH SPORT SD
+http://eaiptv.net:80/aliosman1/01220013722/190127
+#EXTINF:-1 tvg-id="" tvg-name="|ARB.SPORT| STARZPLAY SPORT 1 FHD" tvg-logo="" group-title="|ARABIC SPORT CHANNEL LIVE|",|ARB.SPORT| STARZPLAY SPORT 1 FHD
+http://eaiptv.net:80/aliosman1/01220013722/190128
+#EXTINF:-1 tvg-id="" tvg-name="|ARB.SPORT| STARZPLAY SPORT 1 SD" tvg-logo="" group-title="|ARABIC SPORT CHANNEL LIVE|",|ARB.SPORT| STARZPLAY SPORT 1 SD
+http://eaiptv.net:80/aliosman1/01220013722/190129
+#EXTINF:-1 tvg-id="" tvg-name="|ARB.SPORT| STARZPLAY SPORT 2 FHD" tvg-logo="" group-title="|ARABIC SPORT CHANNEL LIVE|",|ARB.SPORT| STARZPLAY SPORT 2 FHD
+http://eaiptv.net:80/aliosman1/01220013722/190130
+#EXTINF:-1 tvg-id="" tvg-name="|ARB.SPORT| STARZPLAY SPORT 2 SD" tvg-logo="" group-title="|ARABIC SPORT CHANNEL LIVE|",|ARB.SPORT| STARZPLAY SPORT 2 SD
+http://eaiptv.net:80/aliosman1/01220013722/190131
+#EXTINF:-1 tvg-id="" tvg-name="|ARB.SPORT| YAS SPORT HD" tvg-logo="" group-title="|ARABIC SPORT CHANNEL LIVE|",|ARB.SPORT| YAS SPORT HD
+http://eaiptv.net:80/aliosman1/01220013722/190132
+#EXTINF:-1 tvg-id="" tvg-name="|ARB.SPORT| ZAMALEK SPORT SD" tvg-logo="" group-title="|ARABIC SPORT CHANNEL LIVE|",|ARB.SPORT| ZAMALEK SPORT SD
+http://eaiptv.net:80/aliosman1/01220013722/190133
+#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORT_2 H256" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw_D8_0pVSt4I85npgttWQBaEurb7D7pcmRqC0LAk_xsnHpPT7bhJ_1dxxqW5N3VYttypbZY_SX9Rfd61Xu-jlnpKMdsZPIsercJcyHb1gGy7Ckrpo4njvFEzf18TNWHFuEUzw0217QgVOl5eX7XDG5F2-B252WlfQaEa-3V3P363.png" group-title="beIN SP⚽RTS HQ- LIVE",BEIN_SPORT_2 H256
+http://eaiptv.net:80/aliosman1/01220013722/154223
+#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORT_3 H256" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw_D8_0pVSt4I85npgttWQBaEurb7D7pcmRqC0LAk_xsnHpPT7bhJ_1dxxqW5N3VYtqfX9h1kJ3C46SyJa5z4hhvyMxzwlk3L1oGaNPTz3AYyZ-xoOmZGZ6wy3hKZBzxdarD6Rb2m5C0ATOt-YLFn2FoO_8mbX5H7-22JRGQD9BUH.png" group-title="beIN SP⚽RTS HQ- LIVE",BEIN_SPORT_3 H256
+http://eaiptv.net:80/aliosman1/01220013722/154224
+#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORT_4 H256" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw_D8_0pVSt4I85npgttWQBaEurb7D7pcmRqC0LAk_xsnHpPT7bhJ_1dxxqW5N3VYtqfX9h1kJ3C46SyJa5z4hhvkaFrVBWQf_f82I9-UDDoV4a_mTSEBwvFyrRczQiOET2iIstoHRy5zTOaIA4wBalrrGX1x9Jwpr_7DbQNTRJ6B.png" group-title="beIN SP⚽RTS HQ- LIVE",BEIN_SPORT_4 H256
+http://eaiptv.net:80/aliosman1/01220013722/154225
+#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORT_5 H256" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw_D8_0pVSt4I85npgttWQBaEurb7D7pcmRqC0LAk_xsnHpPT7bhJ_1dxxqW5N3VYtqfX9h1kJ3C46SyJa5z4hhvrfKBhkOXiKlDo-KZ_HDwABq0_9ckV_Buup8KHLrA3n4QCPkL1CjhRLwKqpMhsPb6n4iqu-VROEmZkRSzhQu5r.png" group-title="beIN SP⚽RTS HQ- LIVE",BEIN_SPORT_5 H256
+http://eaiptv.net:80/aliosman1/01220013722/154226
+#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORT_6 H256" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw_D8_0pVSt4I85npgttWQBaEurb7D7pcmRqC0LAk_xsnHpPT7bhJ_1dxxqW5N3VYttypbZY_SX9Rfd61Xu-jlnp6RDztK4G-72PiRFsw1uBzfWHoMUZY8-uJPJjsfxKKYQ_3w9PGYkXhUAncMTHl_GmNvGeUgIdIBrK4SCT3eW7l.png" group-title="beIN SP⚽RTS HQ- LIVE",BEIN_SPORT_6 H256
+http://eaiptv.net:80/aliosman1/01220013722/154227
+#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORT_7 H256" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw_D8_0pVSt4I85npgttWQBaEurb7D7pcmRqC0LAk_xsnHpPT7bhJ_1dxxqW5N3VYtqfX9h1kJ3C46SyJa5z4hhtxURmp88qvL5KvFyrYKYqseOxPAhLTYc-5WfJPPvnGoxJTMPu3Hel5_kcy11HE7k95CVkiN9JV9CpeuGnTMWyW.png" group-title="beIN SP⚽RTS HQ- LIVE",BEIN_SPORT_7 H256
+http://eaiptv.net:80/aliosman1/01220013722/154228
+#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORT_8 H256" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw_D8_0pVSt4I85npgttWQBaEurb7D7pcmRqC0LAk_xsnHpPT7bhJ_1dxxqW5N3VYtqPujefcO6RreKwPCxTlQyjDJ8D47T0rLjoguBbVYeCGzP-KH9nL_5efpFYc-7r1UlbhZqcfmkH2PXYCg7L8QehYU51OcoTdD5b4XOACiSb4.png" group-title="beIN SP⚽RTS HQ- LIVE",BEIN_SPORT_8 H256
+http://eaiptv.net:80/aliosman1/01220013722/154229
+#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORT_9 H256" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-GwyTtuOXkZN9sO5rKkc5CcV2wCeycN82CN__B0K9dbQazQ47opWNEx59sBFaqhzZFbZ38SsBTe5vYvoOrm1rFHs7rAHGEnQydzVoGnwYlPlWnv-0ubjUZEL0CUpS5_DYqPtYcTwIWSMeWFyCrdFZlnlkD2cdN5OcpREj_DKYYHu0p.png" group-title="beIN SP⚽RTS HQ- LIVE",BEIN_SPORT_9 H256
+http://eaiptv.net:80/aliosman1/01220013722/154230
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS   1 4K" tvg-logo="http://eaiptv.net:80/images/v6AW62c05bMxU_7f8_eUx16aDpAYCzrg6SOefAOtkhscEds9s9LnuSlWwGY9IQjH0NRhwLeK_BUU4MjGLQ68N5fIf9mSKDoy350Jr9DAVhs.png" group-title="beIN SP⚽RTS HQ HI- LIVE",BEIN SPORTS   1 4K
+http://eaiptv.net:80/aliosman1/01220013722/159158
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 4K" tvg-logo="http://eaiptv.net:80/images/v6AW62c05bMxU_7f8_eUx1BXkRfdE49oKETxSSuV-p6t6atu2DF6FfSJXIyXwoiW95dkBYIPTvuWOeaSKzL_x0-1VC40rODeglPFy55Ypp0.png" group-title="beIN SP⚽RTS HQ HI- LIVE",BEIN SPORTS 2 4K
+http://eaiptv.net:80/aliosman1/01220013722/159159
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 4K" tvg-logo="http://eaiptv.net:80/images/UvilC3baEmk6mlDi4sfXdl--mOCx-kMLBo6tqxwIkV9rv2HtGNS-RiqA975PaHvDCuJBEJHLeqb-LhsW4FHBpjhGYk31D_DE1q9YWrQI0GE.png" group-title="beIN SP⚽RTS HQ HI- LIVE",BEIN SPORTS 3 4K
+http://eaiptv.net:80/aliosman1/01220013722/159160
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 4K" tvg-logo="http://eaiptv.net:80/images/UvilC3baEmk6mlDi4sfXdj-D28MLx7TBb6a5Inn5HubQDXzj6ISUr9w3pKRt_A8_QRTsrm6jYxGE5HO9w8QPvc2GH9bffrNsFgbffd1KPZs.png" group-title="beIN SP⚽RTS HQ HI- LIVE",BEIN SPORTS 4 4K
+http://eaiptv.net:80/aliosman1/01220013722/159161
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 4k" tvg-logo="http://eaiptv.net:80/images/UvilC3baEmk6mlDi4sfXdoO37kSIgWFOnkO14IBaORTWXaqSa7TS2w_T3ehCWgoFUeElod3tqkPKOUSpUwBWCIpKMsdnkgLyv5cwJ5zjU1g.png" group-title="beIN SP⚽RTS HQ HI- LIVE",BEIN SPORTS 5 4k
+http://eaiptv.net:80/aliosman1/01220013722/159162
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 4K" tvg-logo="http://eaiptv.net:80/images/UvilC3baEmk6mlDi4sfXdiSFx4RmkLGnginueLI4qyouXu7LXbT6QMLja88tAu_7cCoqMKDJyHFPqI6kVBIM3zaqPOpHF3Xz2hre8Q8p3C0.png" group-title="beIN SP⚽RTS HQ HI- LIVE",BEIN SPORTS 6 4K
+http://eaiptv.net:80/aliosman1/01220013722/159163
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 4K" tvg-logo="http://eaiptv.net:80/images/UvilC3baEmk6mlDi4sfXdoC6S-W9rdOlm17zmxgSBS9PHIEY5qFJFJJ8lYq_2nvUca5lCPQ4oSzPFWPORKBAqVGRjyCM7hiMNLXD9sV-eRc.png" group-title="beIN SP⚽RTS HQ HI- LIVE",BEIN SPORTS 7 4K
+http://eaiptv.net:80/aliosman1/01220013722/159164
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 4K" tvg-logo="http://eaiptv.net:80/images/UvilC3baEmk6mlDi4sfXdjdPIdsBaEkcV3ziW5DPcTB2gi6XcRKWveNNj7fxAA2C6G0oGEbrWD6UxcxidqkFjjRuUM4oT7Dp0Ztcwqb2n_0.png" group-title="beIN SP⚽RTS HQ HI- LIVE",BEIN SPORTS 8 4K
+http://eaiptv.net:80/aliosman1/01220013722/159165
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 9 4K" tvg-logo="http://eaiptv.net:80/images/UvilC3baEmk6mlDi4sfXdvGU-3onfK_YxIu30TnZWUI58BF85PPyvxrmmOgKymGfhZ2rL5duzd6DoRqKlYaPS6pOY-O6SErUC4pOgXaAFdY.png" group-title="beIN SP⚽RTS HQ HI- LIVE",BEIN SPORTS 9 4K
+http://eaiptv.net:80/aliosman1/01220013722/159166
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Xtra 1 HD" tvg-logo="http://eaiptv.net:80/images/UvilC3baEmk6mlDi4sfXdvJXDmT4yk0Y7WqabNjvV9e1JAbiigEIouI72ROzbHRmjQ6Fn0dCBFS6Hoe9Y2SkyiTm3pEpvvgaS8ubO8IBxqg.png" group-title="beIN SP⚽RTS HQ HI- LIVE",Bein Sports Xtra 1 HD
+http://eaiptv.net:80/aliosman1/01220013722/159167
+#EXTINF:-1 tvg-id="" tvg-name="HALA ARABI 1 HD" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw9vUVF6V9WbHgX6t8CvbZ2EAPe4E49O19_SfCXMTIqEu9ntz9tkUs9INvlottM-DQue7xgb8Th933iJj1zHtEHmdIGXhs0DcC7n_LzOp1mXM6P_VTR-FpSjgkDU3NKV2auNUaNT_J79xXhMQawgwaxBBmiINP278G5DZ4vdoaHro.png" group-title="|H A L A CHANNEL LIVE|",HALA ARABI 1 HD
+http://eaiptv.net:80/aliosman1/01220013722/126759
+#EXTINF:-1 tvg-id="" tvg-name="HALA ARABI 2 HD" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-GwxlTfREOOByxom0qfaxzQWU1PBo9g4IMWW_8zuF1uqpt00T8FzEizkb5QTksGQbpV7Ex02F7dyna-V1Tnyc3y8N-IB019h_JqmUnKDUntkuJQXsVAp8p-oktgzK22ZAGrg.png" group-title="|H A L A CHANNEL LIVE|",HALA ARABI 2 HD
+http://eaiptv.net:80/aliosman1/01220013722/126760
+#EXTINF:-1 tvg-id="" tvg-name="HALA ZAMAN HD" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw9vUVF6V9WbHgX6t8CvbZ2EAPe4E49O19_SfCXMTIqEu9ntz9tkUs9INvlottM-DQue7xgb8Th933iJj1zHtEHmdIGXhs0DcC7n_LzOp1mXM6P_VTR-FpSjgkDU3NKV2auNUaNT_J79xXhMQawgwaxBBmiINP278G5DZ4vdoaHro.png" group-title="|H A L A CHANNEL LIVE|",HALA ZAMAN HD
+http://eaiptv.net:80/aliosman1/01220013722/126761
+#EXTINF:-1 tvg-id="" tvg-name="HALA ACTION 1 HD" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-GwxlTfREOOByxom0qfaxzQWU1PBo9g4IMWW_8zuF1uqpt00T8FzEizkb5QTksGQbpV7Ex02F7dyna-V1Tnyc3y8N-IB019h_JqmUnKDUntkuJQXsVAp8p-oktgzK22ZAGrg.png" group-title="|H A L A CHANNEL LIVE|",HALA ACTION 1 HD
+http://eaiptv.net:80/aliosman1/01220013722/126762
+#EXTINF:-1 tvg-id="" tvg-name="HALA ACTION 2 HD" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-GwxlTfREOOByxom0qfaxzQWU1PBo9g4IMWW_8zuF1uqpt00T8FzEizkb5QTksGQbpV7Ex02F7dyna-V1Tnyc3y8N-IB019h_JqmUnKDUntkuJQXsVAp8p-oktgzK22ZAGrg.png" group-title="|H A L A CHANNEL LIVE|",HALA ACTION 2 HD
+http://eaiptv.net:80/aliosman1/01220013722/126763
+#EXTINF:-1 tvg-id="" tvg-name="HALA KIDS HD" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw9vUVF6V9WbHgX6t8CvbZ2EAPe4E49O19_SfCXMTIqEu9ntz9tkUs9INvlottM-DQue7xgb8Th933iJj1zHtEHmdIGXhs0DcC7n_LzOp1mXM6P_VTR-FpSjgkDU3NKV2auNUaNT_J79xXhMQawgwaxBBmiINP278G5DZ4vdoaHro.png" group-title="|H A L A CHANNEL LIVE|",HALA KIDS HD
+http://eaiptv.net:80/aliosman1/01220013722/126764
+#EXTINF:-1 tvg-id="" tvg-name="Home Cinema 01+ HD" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw9vUVF6V9WbHgX6t8CvbZ2EAPe4E49O19_SfCXMTIqEui0rBtjv8S86QuP91c3sTY0iWLOq9BQT6xnmTd03PE6NvJgyMC6_CCCwPZmaEtwuu6mvXnAvcKsowdEE96BTre7Jzxdbz0-bnqwASTxu4fhM3A0u5MjTsLXzTsHi-965j.png" group-title="|HOME CINEMA CHANNEL LIVE|",Home Cinema 01+ HD
+http://eaiptv.net:80/aliosman1/01220013722/126732
+#EXTINF:-1 tvg-id="" tvg-name="Home Cinema 02+ HD" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw9vUVF6V9WbHgX6t8CvbZ2EAPe4E49O19_SfCXMTIqEui0rBtjv8S86QuP91c3sTY0iWLOq9BQT6xnmTd03PE6NvJgyMC6_CCCwPZmaEtwuu6mvXnAvcKsowdEE96BTre7Jzxdbz0-bnqwASTxu4fhM3A0u5MjTsLXzTsHi-965j.png" group-title="|HOME CINEMA CHANNEL LIVE|",Home Cinema 02+ HD
+http://eaiptv.net:80/aliosman1/01220013722/126733
+#EXTINF:-1 tvg-id="" tvg-name="Home Cinema 03+ HD" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw9vUVF6V9WbHgX6t8CvbZ2EAPe4E49O19_SfCXMTIqEui0rBtjv8S86QuP91c3sTY0iWLOq9BQT6xnmTd03PE6NvJgyMC6_CCCwPZmaEtwuu6mvXnAvcKsowdEE96BTre7Jzxdbz0-bnqwASTxu4fhM3A0u5MjTsLXzTsHi-965j.png" group-title="|HOME CINEMA CHANNEL LIVE|",Home Cinema 03+ HD
+http://eaiptv.net:80/aliosman1/01220013722/126734
+#EXTINF:-1 tvg-id="" tvg-name="Home Cinema 04+ HD" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw9vUVF6V9WbHgX6t8CvbZ2EAPe4E49O19_SfCXMTIqEui0rBtjv8S86QuP91c3sTY0iWLOq9BQT6xnmTd03PE6NvJgyMC6_CCCwPZmaEtwuu6mvXnAvcKsowdEE96BTre7Jzxdbz0-bnqwASTxu4fhM3A0u5MjTsLXzTsHi-965j.png" group-title="|HOME CINEMA CHANNEL LIVE|",Home Cinema 04+ HD
+http://eaiptv.net:80/aliosman1/01220013722/126735
+#EXTINF:-1 tvg-id="" tvg-name="Home Cinema 05+ HD" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw9vUVF6V9WbHgX6t8CvbZ2EAPe4E49O19_SfCXMTIqEui0rBtjv8S86QuP91c3sTY0iWLOq9BQT6xnmTd03PE6NvJgyMC6_CCCwPZmaEtwuu6mvXnAvcKsowdEE96BTre7Jzxdbz0-bnqwASTxu4fhM3A0u5MjTsLXzTsHi-965j.png" group-title="|HOME CINEMA CHANNEL LIVE|",Home Cinema 05+ HD
+http://eaiptv.net:80/aliosman1/01220013722/126736
+#EXTINF:-1 tvg-id="" tvg-name="Home Cinema 06+ HD" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw9vUVF6V9WbHgX6t8CvbZ2EAPe4E49O19_SfCXMTIqEui0rBtjv8S86QuP91c3sTY0iWLOq9BQT6xnmTd03PE6NvJgyMC6_CCCwPZmaEtwuu6mvXnAvcKsowdEE96BTre7Jzxdbz0-bnqwASTxu4fhM3A0u5MjTsLXzTsHi-965j.png" group-title="|HOME CINEMA CHANNEL LIVE|",Home Cinema 06+ HD
+http://eaiptv.net:80/aliosman1/01220013722/126737
+#EXTINF:-1 tvg-id="" tvg-name="Home Cinema 07+ HD" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw9vUVF6V9WbHgX6t8CvbZ2EAPe4E49O19_SfCXMTIqEui0rBtjv8S86QuP91c3sTY0iWLOq9BQT6xnmTd03PE6NvJgyMC6_CCCwPZmaEtwuu6mvXnAvcKsowdEE96BTre7Jzxdbz0-bnqwASTxu4fhM3A0u5MjTsLXzTsHi-965j.png" group-title="|HOME CINEMA CHANNEL LIVE|",Home Cinema 07+ HD
+http://eaiptv.net:80/aliosman1/01220013722/126738
+#EXTINF:-1 tvg-id="" tvg-name="Home Cinema 08+ HD" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw9vUVF6V9WbHgX6t8CvbZ2EAPe4E49O19_SfCXMTIqEui0rBtjv8S86QuP91c3sTY0iWLOq9BQT6xnmTd03PE6NvJgyMC6_CCCwPZmaEtwuu6mvXnAvcKsowdEE96BTre7Jzxdbz0-bnqwASTxu4fhM3A0u5MjTsLXzTsHi-965j.png" group-title="|HOME CINEMA CHANNEL LIVE|",Home Cinema 08+ HD
+http://eaiptv.net:80/aliosman1/01220013722/126739
+#EXTINF:-1 tvg-id="" tvg-name="Home Cinema 09+ HD" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw9vUVF6V9WbHgX6t8CvbZ2EAPe4E49O19_SfCXMTIqEui0rBtjv8S86QuP91c3sTY0iWLOq9BQT6xnmTd03PE6NvJgyMC6_CCCwPZmaEtwuu6mvXnAvcKsowdEE96BTre7Jzxdbz0-bnqwASTxu4fhM3A0u5MjTsLXzTsHi-965j.png" group-title="|HOME CINEMA CHANNEL LIVE|",Home Cinema 09+ HD
+http://eaiptv.net:80/aliosman1/01220013722/126740
+#EXTINF:-1 tvg-id="" tvg-name="Home Cinema 10+ HD" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw9vUVF6V9WbHgX6t8CvbZ2EAPe4E49O19_SfCXMTIqEui0rBtjv8S86QuP91c3sTY0iWLOq9BQT6xnmTd03PE6NvJgyMC6_CCCwPZmaEtwuu6mvXnAvcKsowdEE96BTre7Jzxdbz0-bnqwASTxu4fhM3A0u5MjTsLXzTsHi-965j.png" group-title="|HOME CINEMA CHANNEL LIVE|",Home Cinema 10+ HD
+http://eaiptv.net:80/aliosman1/01220013722/126741
+#EXTINF:-1 tvg-id="" tvg-name="Home Cinema 11+ HD" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw9vUVF6V9WbHgX6t8CvbZ2EAPe4E49O19_SfCXMTIqEui0rBtjv8S86QuP91c3sTY0iWLOq9BQT6xnmTd03PE6NvJgyMC6_CCCwPZmaEtwuu6mvXnAvcKsowdEE96BTre7Jzxdbz0-bnqwASTxu4fhM3A0u5MjTsLXzTsHi-965j.png" group-title="|HOME CINEMA CHANNEL LIVE|",Home Cinema 11+ HD
+http://eaiptv.net:80/aliosman1/01220013722/126742
+#EXTINF:-1 tvg-id="" tvg-name="Home Cinema 12+ HD" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw9vUVF6V9WbHgX6t8CvbZ2EAPe4E49O19_SfCXMTIqEui0rBtjv8S86QuP91c3sTY0iWLOq9BQT6xnmTd03PE6NvJgyMC6_CCCwPZmaEtwuu6mvXnAvcKsowdEE96BTre7Jzxdbz0-bnqwASTxu4fhM3A0u5MjTsLXzTsHi-965j.png" group-title="|HOME CINEMA CHANNEL LIVE|",Home Cinema 12+ HD
+http://eaiptv.net:80/aliosman1/01220013722/126743
+#EXTINF:-1 tvg-id="" tvg-name="Home Cinema 13+ HD" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw9vUVF6V9WbHgX6t8CvbZ2EAPe4E49O19_SfCXMTIqEui0rBtjv8S86QuP91c3sTY0iWLOq9BQT6xnmTd03PE6NvJgyMC6_CCCwPZmaEtwuu6mvXnAvcKsowdEE96BTre7Jzxdbz0-bnqwASTxu4fhM3A0u5MjTsLXzTsHi-965j.png" group-title="|HOME CINEMA CHANNEL LIVE|",Home Cinema 13+ HD
+http://eaiptv.net:80/aliosman1/01220013722/126744
+#EXTINF:-1 tvg-id="" tvg-name="Home Cinema 14+ HD" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw9vUVF6V9WbHgX6t8CvbZ2EAPe4E49O19_SfCXMTIqEui0rBtjv8S86QuP91c3sTY0iWLOq9BQT6xnmTd03PE6NvJgyMC6_CCCwPZmaEtwuu6mvXnAvcKsowdEE96BTre7Jzxdbz0-bnqwASTxu4fhM3A0u5MjTsLXzTsHi-965j.png" group-title="|HOME CINEMA CHANNEL LIVE|",Home Cinema 14+ HD
+http://eaiptv.net:80/aliosman1/01220013722/126745
+#EXTINF:-1 tvg-id="" tvg-name="Home Cinema 15+ HD" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw9vUVF6V9WbHgX6t8CvbZ2EAPe4E49O19_SfCXMTIqEui0rBtjv8S86QuP91c3sTY0iWLOq9BQT6xnmTd03PE6NvJgyMC6_CCCwPZmaEtwuu6mvXnAvcKsowdEE96BTre7Jzxdbz0-bnqwASTxu4fhM3A0u5MjTsLXzTsHi-965j.png" group-title="|HOME CINEMA CHANNEL LIVE|",Home Cinema 15+ HD
+http://eaiptv.net:80/aliosman1/01220013722/126746
+#EXTINF:-1 tvg-id="" tvg-name="SONY Arabic 1 4k (256)" tvg-logo="http://eaiptv.net:80/images/sAwIGwQZMClhWXB_N2-Gw9vUVF6V9WbHgX6t8CvbZ2EAPe4E49O19_SfCXMTIqEuse9HHz-eo_eo_SrSGsDW3SnsOi--opq-UFHMKPj-PC0lAHzFHEcYY7DgmTX2_p3zlk1o_E0iJvgyTnF14vDgF72-tmLTNeMO1BWiYSzyyjEl-6Jp-Z3o27xNUE0tQH7g.png" group-title="|SONY CHANNEL LIVE|",SONY Arabic 1 4k (256)
+http://eaiptv.net:80/aliosman1/01220013722/126791
