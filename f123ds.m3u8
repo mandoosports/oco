@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
 #EXTINF:-1 tvg-id="" tvg-name="HALA TV - Coming Soon" tvg-logo="http://eaiptv.net:80/images/T3qqaNBBA8t7m-m7d-4-NZ8nlDl8tbr0QWGOXZW_jHKvtIkhcJuAbJc1KYjRI-aw.png" group-title="HALA TV",HALA TV - Coming Soon
-https://blcco.linkip.org/live/3461_.m3u8
+https://y7.mandoosports.workers.dev/?url=https://blcco.linkip.org/live/3461_.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HALA-NEWS" tvg-logo="http://eaiptv.net:80/images/T3qqaNBBA8t7m-m7d-4-NZ8nlDl8tbr0QWGOXZW_jHKvtIkhcJuAbJc1KYjRI-aw.png" group-title="HALA TV",HALA-NEWS
 http://eaiptv.net:80/live/aliosman1/01220013722/191356.m3u8
