@@ -1,6 +1,11 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://i.servimg.com/u/f80/20/63/07/15/3840px10.png" group-title="beIN Sport" ,Premier SPORT 1
+https://onconnect.yoo7.com/h11-playerflash-html?id=https://otte.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/vwq77hfgzw/out/v1/b858e0b845c64cec953887bd4269e4ea/cenc.mpd&keys=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.servimg.com/u/f80/20/63/07/15/3840px10.png" group-title="beIN Sport" ,Beinsport 2 English
 https://onconnect.yoo7.com/h11-playerflash-html?id=https://otte.cache.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd&keys=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
@@ -10,9 +15,6 @@ https://onconnect.yoo7.com/h11-playerflash-html?id=https://otte.cache.aiv-cdn.ne
 https://onconnect.yoo7.com/h11-playerflash-html?id=https://otte.cache.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd&keys=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 
 
-
-#EXTINF:-1 tvg-logo="https://i.servimg.com/u/f80/20/63/07/15/3840px10.png" group-title="beIN Sport" ,Premier SPORT 1
-https://onconnect.yoo7.com/h11-playerflash-html?id=https://otte.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/vwq77hfgzw/out/v1/b858e0b845c64cec953887bd4269e4ea/cenc.mpd&keys=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
 
 
 
@@ -134,6 +136,81 @@ https://onconnect.yoo7.com/h12-playerflash1-html?id=https://scccrwb-live.cdn.int
 
 
 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.servimg.com/u/f17/20/28/55/99/mbs10.png" group-title="MBC" ,MBC MASR
+https://onconnect.yoo7.com/h12-playerflash1-html?id=aHR0cHM6Ly9zaGQtZ2NwLWxpdmUuZWRnZW5leHRjZG4ubmV0L2xpdmUvYml0bW92aW4tbWJjLW1hc3ItdXNhL2NkOGQ0MGFjZGFiMjhhYWMwNTgyZmFhM2JkMzk4M2YxL2luZGV4Lm0zdTg=
+
+
+#EXTINF:-1 tvg-logo="https://i.servimg.com/u/f17/20/28/55/99/mbss10.png" group-title="MBC" ,MBC MASR 2
+https://onconnect.yoo7.com/h12-playerflash1-html?id=https://shd-gcp-live.akamaized.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.servimg.com/u/f17/20/28/55/99/mbbs10.png" group-title="MBC" ,MBC MASR DRAMA
+https://onconnect.yoo7.com/h12-playerflash1-html?id=https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-1080&video_codec=H264
+
+
+
+#EXTINF:-1 tvg-logo="https://i.servimg.com/u/f17/20/28/55/99/mbc1lo10.png" group-title="MBC" ,MBC 1
+https://onconnect.yoo7.com/h12-playerflash1-html?id=https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264
+
+
+#EXTINF:-1 tvg-logo="https://i.servimg.com/u/f17/20/28/55/99/mb210.png" group-title="MBC" ,MBC 2
+https://onconnect.yoo7.com/h12-playerflash1-html?id=https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_2HD/DASH/MBC_2HD.mpd&keys=535b41e50f71d5dcdd7b61685500980f:864e981865940ef26cde333a1a8be344
+
+
+#EXTINF:-1 tvg-logo="https://i.servimg.com/u/f17/20/28/55/99/mb310.png" group-title="MBC" ,MBC 3
+https://onconnect.yoo7.com/h12-playerflash1-html?id=https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.servimg.com/u/f17/20/28/55/99/mb410.png" group-title="MBC" ,MBC 4
+https://onconnect.yoo7.com/h12-playerflash1-html?id=https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264
+
+
+#EXTINF:-1 tvg-logo="https://i.servimg.com/u/f17/20/28/55/99/mb510.png" group-title="MBC" ,MBC 5
+https://onconnect.yoo7.com/h12-playerflash1-html?id=https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264
+
+
+#EXTINF:-1 tvg-logo="https://i.servimg.com/u/f17/20/28/55/99/djmcy010.png" group-title="MBC" ,MBC ACTION
+https://onconnect.yoo7.com/h12-playerflash1-html?id=https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Action_HD/DASH/MBC_Action_HD.mpd&keys=d889ec7cb5cd8acb44f702726a56ae21:37be04cfb92f19ecd6074b976c1f3c54
+
+ 
+
+#EXTINF:-1 tvg-logo="https://i.servimg.com/u/f17/20/28/55/99/mbc_ma13.png" group-title="MBC" ,MBC MAX
+https://onconnect.yoo7.com/h12-playerflash1-html?id=https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Max_HD/DASH/MBC_Max_HD.mpd&keys=d995e35f26a3f5ad83f783272d33d956:5e065664006dfd499957b7a4324c8a4f
+
+
+#EXTINF:-1 tvg-logo="https://i.servimg.com/u/f17/20/28/55/99/djmcy710.png" group-title="MBC" ,MBC BOLLYWOOD
+https://onconnect.yoo7.com/h12-playerflash1-html?id=https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+ 
+
+
+
+#EXTINF:-1 tvg-logo="https://i.servimg.com/u/f17/20/28/55/99/mbc_dr12.png" group-title="MBC" ,MBC DRAMA
+https://onconnect.yoo7.com/h12-playerflash1-html?id=https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.servimg.com/u/f17/20/28/55/99/mbc_dr12.jpg" group-title="MBC" ,+MBC DRAMA
+https://onconnect.yoo7.com/h12-playerflash1-html?id=https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.servimg.com/u/f17/20/28/55/99/1280px10.png" group-title="MBC" ,MBC IRAQ
+https://onconnect.yoo7.com/h12-playerflash1-html?id=https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.servimg.com/u/f17/20/28/55/99/137.png" group-title="ART" ,ART Aflam 1
 https://onconnect.yoo7.com/h11-playerflash-html?id=https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/ART_Aflam/DASH/ART_Aflam.mpd&keys=264e7cb9dfd6b9e5c281c97db4c2b4fa:47425a7e8f7e4030d186559852ae97db 
 
@@ -177,6 +254,17 @@ https://onconnect.yoo7.com/h11-playerflash-html?id=https://ev-tcn-dxb-cdn.aws.pl
 
 #EXTINF:-1 tvg-logo="https://i.servimg.com/u/f62/20/15/89/97/16884016.png" group-title="Rotana" ,Rotana Khalijia
 https://onconnect.yoo7.com/h11-playerflash-html?id=https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/Rotana_Khaleejiah_HD/DASH/Rotana_Khaleejiah_HD.mpd&keys=eca652b82b166e910e75150e0648ae32:587ed914c18ec18bc344769827ee7d96
+
+
+
+
+
+
+
+
+
+
+
 
 
 
