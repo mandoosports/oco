@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.servimg.com/u/f72/20/19/25/60/63727810.png" group-title="beIN Sport" ,TOD SPORT 1
+https://onconnect.yoo7.com/h11-playerflash-html?id=https://castx.online/Content/Channel/channel/bein-sports-1/DASH/playlist_ha.mpd&keys=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+
+
 
 #EXTINF:-1 tvg-logo="https://i.servimg.com/u/f80/20/63/07/15/3840px10.png" group-title="beIN Sport" ,Premier SPORT 1
 https://onconnect.yoo7.com/h11-playerflash-html?id=https://otte.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/vwq77hfgzw/out/v1/b858e0b845c64cec953887bd4269e4ea/cenc.mpd&keys=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
